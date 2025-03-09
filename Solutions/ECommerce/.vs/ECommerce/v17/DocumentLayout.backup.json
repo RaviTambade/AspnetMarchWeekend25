@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ravi\\TAP\\WeekEndASPNET\\ECommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{262FEED9-91D7-41F1-BB15-32A1516651EB}|WebAppMVC\\WebAppMVC.csproj|d:\\ravi\\tap\\weekendaspnet\\ecommerce\\webappmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262FEED9-91D7-41F1-BB15-32A1516651EB}|WebAppMVC\\WebAppMVC.csproj|solutionrelative:webappmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF3BC04-51A9-4B80-8B6C-16856A3087EF}|CRMWebAPI\\CRMWebAPI.csproj|d:\\ravi\\tap\\weekendaspnet\\ecommerce\\crmwebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF3BC04-51A9-4B80-8B6C-16856A3087EF}|CRMWebAPI\\CRMWebAPI.csproj|solutionrelative:crmwebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E96271F-149A-4179-9683-D3F2686ACD16}|TestApp\\TestApp.csproj|d:\\ravi\\tap\\weekendaspnet\\ecommerce\\testapp\\testapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E96271F-149A-4179-9683-D3F2686ACD16}|TestApp\\TestApp.csproj|solutionrelative:testapp\\testapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784B9649-537C-4982-8DDE-D5C72DD72BDA}|Catalog\\Catalog.csproj|d:\\ravi\\tap\\weekendaspnet\\ecommerce\\catalog\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784B9649-537C-4982-8DDE-D5C72DD72BDA}|Catalog\\Catalog.csproj|solutionrelative:catalog\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E96271F-149A-4179-9683-D3F2686ACD16}|TestApp\\TestApp.csproj|d:\\ravi\\tap\\weekendaspnet\\ecommerce\\testapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E96271F-149A-4179-9683-D3F2686ACD16}|TestApp\\TestApp.csproj|solutionrelative:testapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\WeekEndASPNET\\ECommerce\\WebAppMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebAppMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\WeekEndASPNET\\ECommerce\\WebAppMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebAppMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T07:12:52.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\WeekEndASPNET\\ECommerce\\CRMWebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "CRMWebAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\WeekEndASPNET\\ECommerce\\CRMWebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "CRMWebAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T07:12:15.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestApp",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\WeekEndASPNET\\ECommerce\\TestApp\\TestApp.csproj",
+              "RelativeDocumentMoniker": "TestApp\\TestApp.csproj",
+              "ToolTip": "D:\\Ravi\\TAP\\WeekEndASPNET\\ECommerce\\TestApp\\TestApp.csproj",
+              "RelativeToolTip": "TestApp\\TestApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-09T07:07:13.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\WeekEndASPNET\\ECommerce\\Catalog\\Product.cs",
+              "RelativeDocumentMoniker": "Catalog\\Product.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\WeekEndASPNET\\ECommerce\\Catalog\\Product.cs",
+              "RelativeToolTip": "Catalog\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T06:53:10.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\WeekEndASPNET\\ECommerce\\TestApp\\Program.cs",
+              "RelativeDocumentMoniker": "TestApp\\Program.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\WeekEndASPNET\\ECommerce\\TestApp\\Program.cs",
+              "RelativeToolTip": "TestApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T06:48:09.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

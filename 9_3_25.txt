@@ -1,0 +1,180 @@
+
+
+ 
+FullStack .net core App Weekend Training
+
+FullStack: UI + App Development+ Backend integration
+	   Testing+ Deployment
+	   CI/CD pipline for complete .net Core Solution
+
+phases of Software Develpment:
+		
+Waterfall Model:
+Incremental iterative Development Process:
+
+SDLC  practice being followed by max. Product based companies/
+				      service based companies
+Agile Methodology--- year 2000
+
+	 Scrum framework:
+	      Standup meeting
+	 Product Owner
+		Product backlog
+		  set of user stories
+
+		Sprint Planning
+
+	 Project work set in number of sprint
+		Sprint is defined as 15 days/ 30 days cycle
+
+Product s: 
+(Exponetial growth in requirements, scalability,,,,,,,)
+		Windows application(windows UI)-----Business offices----staff
+		Web based application(Web UI)--branch offices,------kowledge workers
+				       franchieses
+				       vendors, 
+				       retails
+		Mobile Applicaitons(Mobile App)(Mobile UI)			
+
+					Secure, roled based
+					personlized,
+					localization
+Libraries provided by Microsoft
+		FCL:Framework Class Libraries (class Libraries) ( .dll)
+
+		System.dll
+		system.web.dll
+		system.data.dll,etc.
+DLL consist of  namespaces
+			.net classes, interfaces, structures, enums
+			 events, delegates
+
+
+ASP.NET:
+	  default.aspx
+	  default.aspx.cs
+			  System.Web.UI.Page
+	   <asp:textBox> 
+		
+	  
+	  is an Object Model (Webforms .aspx. ascx)
+	  webforms, web server control, master, profile
+ADO.NET:
+	 is an Object Model
+		oracleConnection, OracleCommand, OracelDataAdapter
+		datareader
+
+
+
+till 2008 : asp.net  was object Model for building web applications rapidly
+
+Application should be lightweight
+		Avoid web server controle, avoid using bulcky objects,
+		Avoid using  complex Page Life cycle
+		Avoid generating heavy payload
+
+Best Practices followed Libraries to be developed
+		Design Patterns (23 )
+			Observer  (Publisher subscriber)
+			class factory
+			singleton
+2008: launched
+		asp.net mvc (Framework)
+			Object Model + best practices for buliding application
+				     + various design patterns
+
+Internet became defacto standard for each buisiness for providing their online services 		
+
+2016: .net core + asp.net Core 
+    :Cloud based application Architecture adoption
+
+Cloud:
+	Pay as you go
+	
+	Data Centers + Servers + application deployed
+
+Services oriented Architecture: (SOA)
+		Building IT solutions using reusable, loosely coupled,  isolated, 
+					    state less  web services
+
+	easily maintainable
+	easily testable , scalable, durable
+
+Monolithic application  vs Microservices oriented Architecture
+
+Projet based  Learning 
+80% Hands on Oriented
+Learn by Doing
+Learn from errors
+Understand by debugging
+Visualize using block diagrams
+collect information by reading
+Build condifence by delivering
+
+
+asp.net Fulllstack:
+	1.installing .net core sdk, vs code
+	2.understanding basic application created using .net cli
+	3.exploring application development creation using MVC architecture
+	4.integrating multi-layer coding 
+	5.folder structure of .net application
+	6.Design Principles ( SOLID, DRY, KISS)
+	7.Design Patterns (structural, Behavioural, creattional)
+	8.MVC (Model View Controller) (pros and cons)
+	9.Middleware pipleline
+	10.Dependency Injection
+	11.Repository pattern
+	12.asp.net core application  request-response life cycle
+	13.working Controller class and actions method
+	14.ViewData, ViewBag, Tempadata
+	15.State management: session, cookies, querystring, cache
+			    resdiscache,
+			    outputcaching
+	16.database connectivity:
+			basic ADO.net, 
+			ORM  (Object relational Mapping) Entity framework Core
+			Light weight ORM (Dapper)
+	17.Custom middleware
+	18.authentication and authorization
+		LDAP Authentication, SSO,
+		active Directory Authentiation
+		Saml ACCOUNT 
+		OAuth
+	19.Microservices Architecture
+		api gateway
+		integrating services, security,
+		communication between microservices
+	20.integrating with Javasript UI 
+			Bootstrap
+			tailwind.css
+			react
+			angular
+
+	
+
+ 1.Focus on basic asp.net web application using .net core
+ 2.Create  asp.net core application using Visual STudio .net
+	Solution
+		project
+			source code
+				.cs
+		
+			resources
+				 images,videos
+				 localized.
+				 
+					
+
+
+
+
+
+
+
+
+
+
+
+
+	
+

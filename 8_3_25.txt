@@ -1,0 +1,61 @@
+Fullstack Developer
+What is product ?
+What are existing technology stack being used?
+What kind role been played by participants ?
+What is the  future exectations of produt migration possibilities from your knowlege?
+What king of Application architecture ( n tier architeture)
+End to End Solution Management
+(infra, platform, Runtime, Application, UI, Services, data connectivity,,,, database)
+
+Infra: web server, database server, integration with existing server
+Plaform:.net  framwork ( 4.8)
+Runtime: .net framework CLR + GC
+Architecture:Monolithic Application Architectur  (migrating to Microservices Architecture)
+Application:Web Application + Console Applicaton  + (Task Scheduler)
+	    :(web froms + web api) + ()
+
+3.5 from  to 4.8 framework
+ASP.NET ----ui---aspx web forms
+		 Code----pure logic using C# 
+			 ado.net (connected /disconnected)
+			repository pattern (DAL)
+			UI layer---App Layer---Data Access Layer---backend
+					----Oracle server
+					    ( tables, stored procedures,
+						transactions,)
+		exe--------1.console Application
+			   2.windows NT service			 
+
+asp.net core----UI----.cshtml (razor views)
+		      .UI framework (react, angular, jQuery) (HTML, CSS ,JS)
+		      .mobile UI
+
+
+
+
+Dotnet CLI Commands:
+
+	dotnet new console -o  HelloApp
+	dotnet new mvc -o HelloWebApp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
