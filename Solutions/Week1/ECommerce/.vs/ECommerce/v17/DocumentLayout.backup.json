@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\ECommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{262FEED9-91D7-41F1-BB15-32A1516651EB}|WebAppMVC\\WebAppMVC.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\ecommerce\\webappmvc\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{262FEED9-91D7-41F1-BB15-32A1516651EB}|WebAppMVC\\WebAppMVC.csproj|solutionrelative:webappmvc\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C2D67E-EB5A-4BF9-951C-F4E0445AF4A7}|CRMLib\\CRMLib.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\ecommerce\\crmlib\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C2D67E-EB5A-4BF9-951C-F4E0445AF4A7}|CRMLib\\CRMLib.csproj|solutionrelative:crmlib\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C2D67E-EB5A-4BF9-951C-F4E0445AF4A7}|CRMLib\\CRMLib.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\ecommerce\\crmlib\\customeriomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C2D67E-EB5A-4BF9-951C-F4E0445AF4A7}|CRMLib\\CRMLib.csproj|solutionrelative:crmlib\\customeriomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262FEED9-91D7-41F1-BB15-32A1516651EB}|WebAppMVC\\WebAppMVC.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\ecommerce\\webappmvc\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262FEED9-91D7-41F1-BB15-32A1516651EB}|WebAppMVC\\WebAppMVC.csproj|solutionrelative:webappmvc\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262FEED9-91D7-41F1-BB15-32A1516651EB}|WebAppMVC\\WebAppMVC.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\ecommerce\\webappmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262FEED9-91D7-41F1-BB15-32A1516651EB}|WebAppMVC\\WebAppMVC.csproj|solutionrelative:webappmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262FEED9-91D7-41F1-BB15-32A1516651EB}|WebAppMVC\\WebAppMVC.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\ecommerce\\webappmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262FEED9-91D7-41F1-BB15-32A1516651EB}|WebAppMVC\\WebAppMVC.csproj|solutionrelative:webappmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C2D67E-EB5A-4BF9-951C-F4E0445AF4A7}|CRMLib\\CRMLib.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\ecommerce\\crmlib\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C2D67E-EB5A-4BF9-951C-F4E0445AF4A7}|CRMLib\\CRMLib.csproj|solutionrelative:crmlib\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C2D67E-EB5A-4BF9-951C-F4E0445AF4A7}|CRMLib\\CRMLib.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\ecommerce\\crmlib\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C2D67E-EB5A-4BF9-951C-F4E0445AF4A7}|CRMLib\\CRMLib.csproj|solutionrelative:crmlib\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C2D67E-EB5A-4BF9-951C-F4E0445AF4A7}|CRMLib\\CRMLib.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\ecommerce\\crmlib\\customerdbmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C2D67E-EB5A-4BF9-951C-F4E0445AF4A7}|CRMLib\\CRMLib.csproj|solutionrelative:crmlib\\customerdbmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C54E13-0474-49A0-BDBD-D5AF768CF1B5}|CRMRepository\\CRMRepository.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\ecommerce\\crmrepository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C54E13-0474-49A0-BDBD-D5AF768CF1B5}|CRMRepository\\CRMRepository.csproj|solutionrelative:crmrepository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E96271F-149A-4179-9683-D3F2686ACD16}|TestApp\\TestApp.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\ecommerce\\testapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E96271F-149A-4179-9683-D3F2686ACD16}|TestApp\\TestApp.csproj|solutionrelative:testapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784B9649-537C-4982-8DDE-D5C72DD72BDA}|Catalog\\Catalog.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\ecommerce\\catalog\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784B9649-537C-4982-8DDE-D5C72DD72BDA}|Catalog\\Catalog.csproj|solutionrelative:catalog\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF3BC04-51A9-4B80-8B6C-16856A3087EF}|CRMWebAPI\\CRMWebAPI.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\ecommerce\\crmwebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF3BC04-51A9-4B80-8B6C-16856A3087EF}|CRMWebAPI\\CRMWebAPI.csproj|solutionrelative:crmwebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E96271F-149A-4179-9683-D3F2686ACD16}|TestApp\\TestApp.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\ecommerce\\testapp\\testapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E96271F-149A-4179-9683-D3F2686ACD16}|TestApp\\TestApp.csproj|solutionrelative:testapp\\testapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\ECommerce\\WebAppMVC\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppMVC\\Views\\Customers\\Index.cshtml",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\ECommerce\\WebAppMVC\\Views\\Customers\\Index.cshtml",
+              "RelativeToolTip": "WebAppMVC\\Views\\Customers\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwBYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T06:05:04.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\ECommerce\\WebAppMVC\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "WebAppMVC\\Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\ECommerce\\WebAppMVC\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "WebAppMVC\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T06:02:49.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\ECommerce\\WebAppMVC\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppMVC\\Program.cs",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\ECommerce\\WebAppMVC\\Program.cs",
+              "RelativeToolTip": "WebAppMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T06:01:36.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\ECommerce\\CRMLib\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "CRMLib\\ICustomerService.cs",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\ECommerce\\CRMLib\\ICustomerService.cs",
+              "RelativeToolTip": "CRMLib\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:52:54.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerIOManager.cs",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\ECommerce\\CRMLib\\CustomerIOManager.cs",
+              "RelativeDocumentMoniker": "CRMLib\\CustomerIOManager.cs",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\ECommerce\\CRMLib\\CustomerIOManager.cs",
+              "RelativeToolTip": "CRMLib\\CustomerIOManager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:43:17.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\ECommerce\\CRMRepository\\Class1.cs",
+              "RelativeDocumentMoniker": "CRMRepository\\Class1.cs",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\ECommerce\\CRMRepository\\Class1.cs",
+              "RelativeToolTip": "CRMRepository\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:38:40.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\ECommerce\\CRMLib\\CustomerService.cs",
+              "RelativeDocumentMoniker": "CRMLib\\CustomerService.cs",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\ECommerce\\CRMLib\\CustomerService.cs",
+              "RelativeToolTip": "CRMLib\\CustomerService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:38:01.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerDBManger.cs",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\ECommerce\\CRMLib\\CustomerDBManger.cs",
+              "RelativeDocumentMoniker": "CRMLib\\CustomerDBManger.cs",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\ECommerce\\CRMLib\\CustomerDBManger.cs",
+              "RelativeToolTip": "CRMLib\\CustomerDBManger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:38:00.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\ECommerce\\CRMLib\\Customer.cs",
+              "RelativeDocumentMoniker": "CRMLib\\Customer.cs",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\ECommerce\\CRMLib\\Customer.cs",
+              "RelativeToolTip": "CRMLib\\Customer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:37:59.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\ECommerce\\WebAppMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebAppMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\ECommerce\\WebAppMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebAppMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T07:12:52.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\ECommerce\\CRMWebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "CRMWebAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\ECommerce\\CRMWebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "CRMWebAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T07:12:15.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TestApp.csproj",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\ECommerce\\TestApp\\TestApp.csproj",
+              "RelativeDocumentMoniker": "TestApp\\TestApp.csproj",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\ECommerce\\TestApp\\TestApp.csproj",
+              "RelativeToolTip": "TestApp\\TestApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-09T07:07:13.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\ECommerce\\Catalog\\Product.cs",
+              "RelativeDocumentMoniker": "Catalog\\Product.cs",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\ECommerce\\Catalog\\Product.cs",
+              "RelativeToolTip": "Catalog\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T06:53:10.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\ECommerce\\TestApp\\Program.cs",
+              "RelativeDocumentMoniker": "TestApp\\Program.cs",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\ECommerce\\TestApp\\Program.cs",
+              "RelativeToolTip": "TestApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T06:48:09.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

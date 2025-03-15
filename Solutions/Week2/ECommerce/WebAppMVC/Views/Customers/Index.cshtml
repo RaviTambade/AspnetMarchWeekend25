@@ -1,0 +1,32 @@
+﻿<h1>Customres </h1>
+<hr/>
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Customer ID</th>
+            <th>Customer Name</th>
+            <th>Customer Address</th>
+            <th>Customer Email</th>
+            <th>Customer Phone</th>
+            <th>
+        </tr>
+    </thead>
+    <tbody>
+        <!--   Razor Syntax-->
+        <!-- Mixing C# and HTML Code together in .csthml-->
+        @foreach (var customer in Model)
+        {
+            <tr>
+                <td>@customer.Id</td>
+                <td>@customer.Name</td>
+                <td>@customer.Address</td>
+                <td>@customer.Email</td>
+                <td>@customer.Phone</td>
+                <td>
+                    <a href="@Url.Action("Edit", "Customers", new { id = customer.Id })">Edit</a> |
+                    <a href="@Url.Action("Details", "Customers", new { id = customer.Id })">Details</a> |
+                    <a href="@Url.Action("Delete", "Customers", new { id = customer.Id })">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
