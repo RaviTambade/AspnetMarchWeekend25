@@ -3,16 +3,19 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using CRMLib.Entities;
 using CRMLib.Repositories;
+using CRMLib.Repositories.Implemenrations;
+using CRMLib.Services.Interfaces;
 
-namespace CRMLib.Services
+namespace CRMLib.Services.Implementations
 {
     public class CustomerService : ICustomerService
     {
         public void AddCustomer(Customer customer)
         {
-           List<Customer> customers = GetCustomers();
-           customers.Add(customer);
+            List<Customer> customers = GetCustomers();
+            customers.Add(customer);
             new CustomerIOManager().WriteCustomers(customers);
 
         }

@@ -4,16 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Text.Json;
+using CRMLib.Repositories.Interfaces;
+using CRMLib.Entities;
 
-namespace CRMLib.Repositories
+namespace CRMLib.Repositories.Implemenrations
 {
     //Persistence Manager
     //Data Access Layer
-    internal class CustomerIOManager
+    internal class CustomerIOManager: IRepoManager
     {
         public CustomerIOManager() { }
 
-        public  List<Customer> ReadCustomers()
+        public List<Customer> ReadCustomers()
         {
             //Deserialize customers
             //read customers from file
@@ -22,7 +24,7 @@ namespace CRMLib.Repositories
             if (File.Exists(filePath))
             {
                 string jsonString = File.ReadAllText(filePath);
-                customers =JsonSerializer.Deserialize<List<Customer>>(jsonString);   
+                customers = JsonSerializer.Deserialize<List<Customer>>(jsonString);
             }
             return customers;
         }
@@ -31,7 +33,7 @@ namespace CRMLib.Repositories
         {
             //Serialize customers
             //write customers to file
-           string jsonString= JsonSerializer.Serialize(customers);
+            string jsonString = JsonSerializer.Serialize(customers);
             string filePath = @"d:/tryout/customers.json";
             File.WriteAllText(filePath, jsonString);
         }

@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CRMLib
+namespace CRMLib.Repositories.Interfaces
 {
-    internal class CusomerDBManager
+    internal interface IDBManager
     {
     }
 }

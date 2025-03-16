@@ -1,4 +1,4 @@
-﻿namespace CRMLib
+﻿namespace CRMLib.Entities
 {
 
     //POCO class as Customer
