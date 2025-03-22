@@ -1,0 +1,23 @@
+﻿@using  CRMLib.Entities;
+
+@{
+    ViewData["Title"] = "History";
+}
+
+<h1>History</h1>
+
+<hr/>
+
+@{
+    List<Customer> customers = (List<Customer>)Model;
+    foreach (var customer in customers)
+    {
+        <div>
+            <h3>@customer.Name</h3>
+            <p>@customer.Address</p>
+            <p>@customer.Email</p>
+            <p>@customer.Phone</p>
+        </div>
+    }
+}
+
