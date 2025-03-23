@@ -1,0 +1,38 @@
+﻿@using System.Collections.Generic;
+
+<!-- Razor Syntax-->
+@{
+    //C# Syntax 
+    int countVisitor = 100;
+    string fullName = "Ravi Tambade";
+    var company = new {
+        Name = "Transflower",
+        Location = "Pune",
+        Website = "www.transflower.in"
+    };
+
+
+    <p>Mentor: @fullName</p>
+
+    <hr/>
+    <p>@company.Name</p>
+    <p>@company.Location</p>
+    <p>@company.Website</p>
+
+    List<string> contacts = new List<string>();
+    contacts.Add("Shree Jadhav");
+    contacts.Add("Mani Narang");
+    contacts.Add("Chitra Patil");
+
+    <h2>Company Wellwishers</h2>
+    <ol>
+            @foreach (var item in contacts)
+            {
+                <li>@item</li>
+            };
+    </ol>
+    ViewData["Title"] = "Aboutus";
+}
+
+<h1>Aboutus</h1>
+

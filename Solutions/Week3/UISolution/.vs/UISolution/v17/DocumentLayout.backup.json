@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\UISolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{301C6F26-B66B-48E2-AAE9-85652AF3A389}|BasicRazorViewApp\\BasicRazorViewApp.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\week3\\uisolution\\basicrazorviewapp\\views\\auth\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{301C6F26-B66B-48E2-AAE9-85652AF3A389}|BasicRazorViewApp\\BasicRazorViewApp.csproj|solutionrelative:basicrazorviewapp\\views\\auth\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301C6F26-B66B-48E2-AAE9-85652AF3A389}|BasicRazorViewApp\\BasicRazorViewApp.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\week3\\uisolution\\basicrazorviewapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301C6F26-B66B-48E2-AAE9-85652AF3A389}|BasicRazorViewApp\\BasicRazorViewApp.csproj|solutionrelative:basicrazorviewapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301C6F26-B66B-48E2-AAE9-85652AF3A389}|BasicRazorViewApp\\BasicRazorViewApp.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\week3\\uisolution\\basicrazorviewapp\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{301C6F26-B66B-48E2-AAE9-85652AF3A389}|BasicRazorViewApp\\BasicRazorViewApp.csproj|solutionrelative:basicrazorviewapp\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301C6F26-B66B-48E2-AAE9-85652AF3A389}|BasicRazorViewApp\\BasicRazorViewApp.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\week3\\uisolution\\basicrazorviewapp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{301C6F26-B66B-48E2-AAE9-85652AF3A389}|BasicRazorViewApp\\BasicRazorViewApp.csproj|solutionrelative:basicrazorviewapp\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301C6F26-B66B-48E2-AAE9-85652AF3A389}|BasicRazorViewApp\\BasicRazorViewApp.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\week3\\uisolution\\basicrazorviewapp\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301C6F26-B66B-48E2-AAE9-85652AF3A389}|BasicRazorViewApp\\BasicRazorViewApp.csproj|solutionrelative:basicrazorviewapp\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301C6F26-B66B-48E2-AAE9-85652AF3A389}|BasicRazorViewApp\\BasicRazorViewApp.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\week3\\uisolution\\basicrazorviewapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301C6F26-B66B-48E2-AAE9-85652AF3A389}|BasicRazorViewApp\\BasicRazorViewApp.csproj|solutionrelative:basicrazorviewapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301C6F26-B66B-48E2-AAE9-85652AF3A389}|BasicRazorViewApp\\BasicRazorViewApp.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\week3\\uisolution\\basicrazorviewapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301C6F26-B66B-48E2-AAE9-85652AF3A389}|BasicRazorViewApp\\BasicRazorViewApp.csproj|solutionrelative:basicrazorviewapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301C6F26-B66B-48E2-AAE9-85652AF3A389}|BasicRazorViewApp\\BasicRazorViewApp.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\week3\\uisolution\\basicrazorviewapp\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{301C6F26-B66B-48E2-AAE9-85652AF3A389}|BasicRazorViewApp\\BasicRazorViewApp.csproj|solutionrelative:basicrazorviewapp\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301C6F26-B66B-48E2-AAE9-85652AF3A389}|BasicRazorViewApp\\BasicRazorViewApp.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\week3\\uisolution\\basicrazorviewapp\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{301C6F26-B66B-48E2-AAE9-85652AF3A389}|BasicRazorViewApp\\BasicRazorViewApp.csproj|solutionrelative:basicrazorviewapp\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301C6F26-B66B-48E2-AAE9-85652AF3A389}|BasicRazorViewApp\\BasicRazorViewApp.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\week3\\uisolution\\basicrazorviewapp\\basicrazorviewapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{301C6F26-B66B-48E2-AAE9-85652AF3A389}|BasicRazorViewApp\\BasicRazorViewApp.csproj|solutionrelative:basicrazorviewapp\\basicrazorviewapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301C6F26-B66B-48E2-AAE9-85652AF3A389}|BasicRazorViewApp\\BasicRazorViewApp.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\week3\\uisolution\\basicrazorviewapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{301C6F26-B66B-48E2-AAE9-85652AF3A389}|BasicRazorViewApp\\BasicRazorViewApp.csproj|solutionrelative:basicrazorviewapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\UISolution\\BasicRazorViewApp\\Views\\Auth\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "BasicRazorViewApp\\Views\\Auth\\ChangePassword.cshtml",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\UISolution\\BasicRazorViewApp\\Views\\Auth\\ChangePassword.cshtml",
+              "RelativeToolTip": "BasicRazorViewApp\\Views\\Auth\\ChangePassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T06:33:17.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\UISolution\\BasicRazorViewApp\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "BasicRazorViewApp\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\UISolution\\BasicRazorViewApp\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "BasicRazorViewApp\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T06:32:42.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\UISolution\\BasicRazorViewApp\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "BasicRazorViewApp\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\UISolution\\BasicRazorViewApp\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "BasicRazorViewApp\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T06:32:02.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\UISolution\\BasicRazorViewApp\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "BasicRazorViewApp\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\UISolution\\BasicRazorViewApp\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "BasicRazorViewApp\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T06:30:24.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\UISolution\\BasicRazorViewApp\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "BasicRazorViewApp\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\UISolution\\BasicRazorViewApp\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "BasicRazorViewApp\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T06:29:50.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\UISolution\\BasicRazorViewApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BasicRazorViewApp\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\UISolution\\BasicRazorViewApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BasicRazorViewApp\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T06:29:21.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contactus.cshtml",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\UISolution\\BasicRazorViewApp\\Views\\Home\\Contactus.cshtml",
+              "RelativeDocumentMoniker": "BasicRazorViewApp\\Views\\Home\\Contactus.cshtml",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\UISolution\\BasicRazorViewApp\\Views\\Home\\Contactus.cshtml",
+              "RelativeToolTip": "BasicRazorViewApp\\Views\\Home\\Contactus.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T06:08:38.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Aboutus.cshtml",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\UISolution\\BasicRazorViewApp\\Views\\Home\\Aboutus.cshtml",
+              "RelativeDocumentMoniker": "BasicRazorViewApp\\Views\\Home\\Aboutus.cshtml",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\UISolution\\BasicRazorViewApp\\Views\\Home\\Aboutus.cshtml",
+              "RelativeToolTip": "BasicRazorViewApp\\Views\\Home\\Aboutus.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T05:38:23.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BasicRazorViewApp",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\UISolution\\BasicRazorViewApp\\BasicRazorViewApp.csproj",
+              "RelativeDocumentMoniker": "BasicRazorViewApp\\BasicRazorViewApp.csproj",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\UISolution\\BasicRazorViewApp\\BasicRazorViewApp.csproj",
+              "RelativeToolTip": "BasicRazorViewApp\\BasicRazorViewApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-23T05:28:30.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\UISolution\\BasicRazorViewApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BasicRazorViewApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\UISolution\\BasicRazorViewApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BasicRazorViewApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T05:19:13.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\UISolution\\BasicRazorViewApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BasicRazorViewApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\UISolution\\BasicRazorViewApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BasicRazorViewApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwEIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T05:18:19.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

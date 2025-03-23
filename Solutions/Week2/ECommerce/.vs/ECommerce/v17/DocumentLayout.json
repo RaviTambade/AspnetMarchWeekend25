@@ -58,8 +58,7 @@
               "RelativeToolTip": "WebAppMVC\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T07:24:43.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T07:24:43.07Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "WebAppMVC\\Views\\Customers\\History.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-22T07:21:04.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T07:21:04.583Z"
             },
             {
               "$type": "Document",
@@ -84,8 +82,7 @@
               "RelativeToolTip": "CRMLib\\Services\\Interfaces\\ICustomerService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T07:09:59.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T07:09:59.117Z"
             },
             {
               "$type": "Document",
@@ -97,8 +94,7 @@
               "RelativeToolTip": "CRMLib\\Repositories\\Implemenrations\\CustomerIOManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T07:09:51.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T07:09:51.301Z"
             },
             {
               "$type": "Document",
@@ -110,8 +106,7 @@
               "RelativeToolTip": "CRMLib\\Repositories\\Interfaces\\IRepoManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T07:09:47.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T07:09:47.22Z"
             },
             {
               "$type": "Document",
@@ -121,7 +116,7 @@
               "RelativeDocumentMoniker": "WebAppMVC\\Views\\Customers\\Index.cshtml",
               "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week2\\ECommerce\\WebAppMVC\\Views\\Customers\\Index.cshtml",
               "RelativeToolTip": "WebAppMVC\\Views\\Customers\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-22T07:04:24.344Z",
               "EditorCaption": ""
@@ -136,8 +131,7 @@
               "RelativeToolTip": "WebAppMVC\\Controllers\\CustomersController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAewCgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T07:03:53.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-22T07:03:53.212Z"
             }
           ]
         }
