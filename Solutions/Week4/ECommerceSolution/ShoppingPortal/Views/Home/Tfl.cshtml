@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewData["Title"] = "Tfl"; 
+}
+
+<h1>Tfl</h1>
+<hr/>
+@{
+    //C# Code
+    DateTime dateTime = DateTime.Now;
+    string date = dateTime.ToString("dd/MM/yyyy");
+}
+<label>Date: @date</label>
+
+<hr />
+
+<!-- Classical Web Technology Rendering-->
+<p id="para">Welcome</p>
+<button onclick="showMessage()">Get Tfl Data</button>
+<script>
+    //Javascript Code
+    function showMessage(){
+        //DOM Manipulation
+        document.getElementById("para").innerHTML = "Thank you for  visiting Transflower";
+
+    }
+</script>
