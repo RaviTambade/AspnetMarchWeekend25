@@ -1,0 +1,24 @@
+﻿@page
+@using ViewOnlyWebApp.Entities;
+ 
+@model ViewOnlyWebApp.Pages.ListModel
+
+@{
+    ViewData["Title"] = "Catalog";
+}
+<h2>Catalog</h2>
+<hr />
+<hr />
+
+@{
+    List<Product> flowers = ViewData["flowers"] as List<Product>; 
+    foreach (var flower in flowers)
+    {
+        <div class="container">
+            <h3>@flower.Name</h3>
+            <hr />
+            <p>Details about @flower.Description</p>
+            <a href="/details/@flower.Id">Details </a>
+        </div>
+    }
+}

@@ -3,24 +3,68 @@
   "WorkspaceRootPath": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98EED69D-499F-426B-8DD5-71E538A88D56}|ShoppingPortal\\ShoppingPortal.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week4\\ecommercesolution\\shoppingportal\\models\\formdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98EED69D-499F-426B-8DD5-71E538A88D56}|ShoppingPortal\\ShoppingPortal.csproj|solutionrelative:shoppingportal\\models\\formdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D4BC4D9-E71F-47AF-BD7D-C19A2A64351A}|ViewOnlyWebApp\\ViewOnlyWebApp.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week4\\ecommercesolution\\viewonlywebapp\\pages\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D4BC4D9-E71F-47AF-BD7D-C19A2A64351A}|ViewOnlyWebApp\\ViewOnlyWebApp.csproj|solutionrelative:viewonlywebapp\\pages\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98EED69D-499F-426B-8DD5-71E538A88D56}|ShoppingPortal\\ShoppingPortal.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week4\\ecommercesolution\\shoppingportal\\controllers\\collectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98EED69D-499F-426B-8DD5-71E538A88D56}|ShoppingPortal\\ShoppingPortal.csproj|solutionrelative:shoppingportal\\controllers\\collectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D4BC4D9-E71F-47AF-BD7D-C19A2A64351A}|ViewOnlyWebApp\\ViewOnlyWebApp.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week4\\ecommercesolution\\viewonlywebapp\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4BC4D9-E71F-47AF-BD7D-C19A2A64351A}|ViewOnlyWebApp\\ViewOnlyWebApp.csproj|solutionrelative:viewonlywebapp\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98EED69D-499F-426B-8DD5-71E538A88D56}|ShoppingPortal\\ShoppingPortal.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week4\\ecommercesolution\\shoppingportal\\views\\collect\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{98EED69D-499F-426B-8DD5-71E538A88D56}|ShoppingPortal\\ShoppingPortal.csproj|solutionrelative:shoppingportal\\views\\collect\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7D4BC4D9-E71F-47AF-BD7D-C19A2A64351A}|ViewOnlyWebApp\\ViewOnlyWebApp.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week4\\ecommercesolution\\viewonlywebapp\\pages\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4BC4D9-E71F-47AF-BD7D-C19A2A64351A}|ViewOnlyWebApp\\ViewOnlyWebApp.csproj|solutionrelative:viewonlywebapp\\pages\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98EED69D-499F-426B-8DD5-71E538A88D56}|ShoppingPortal\\ShoppingPortal.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week4\\ecommercesolution\\shoppingportal\\views\\collect\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{98EED69D-499F-426B-8DD5-71E538A88D56}|ShoppingPortal\\ShoppingPortal.csproj|solutionrelative:shoppingportal\\views\\collect\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7D4BC4D9-E71F-47AF-BD7D-C19A2A64351A}|ViewOnlyWebApp\\ViewOnlyWebApp.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week4\\ecommercesolution\\viewonlywebapp\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4BC4D9-E71F-47AF-BD7D-C19A2A64351A}|ViewOnlyWebApp\\ViewOnlyWebApp.csproj|solutionrelative:viewonlywebapp\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98EED69D-499F-426B-8DD5-71E538A88D56}|ShoppingPortal\\ShoppingPortal.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week4\\ecommercesolution\\shoppingportal\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98EED69D-499F-426B-8DD5-71E538A88D56}|ShoppingPortal\\ShoppingPortal.csproj|solutionrelative:shoppingportal\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D4BC4D9-E71F-47AF-BD7D-C19A2A64351A}|ViewOnlyWebApp\\ViewOnlyWebApp.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week4\\ecommercesolution\\viewonlywebapp\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4BC4D9-E71F-47AF-BD7D-C19A2A64351A}|ViewOnlyWebApp\\ViewOnlyWebApp.csproj|solutionrelative:viewonlywebapp\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4BC4D9-E71F-47AF-BD7D-C19A2A64351A}|ViewOnlyWebApp\\ViewOnlyWebApp.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week4\\ecommercesolution\\viewonlywebapp\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4BC4D9-E71F-47AF-BD7D-C19A2A64351A}|ViewOnlyWebApp\\ViewOnlyWebApp.csproj|solutionrelative:viewonlywebapp\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4BC4D9-E71F-47AF-BD7D-C19A2A64351A}|ViewOnlyWebApp\\ViewOnlyWebApp.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week4\\ecommercesolution\\viewonlywebapp\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4BC4D9-E71F-47AF-BD7D-C19A2A64351A}|ViewOnlyWebApp\\ViewOnlyWebApp.csproj|solutionrelative:viewonlywebapp\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4BC4D9-E71F-47AF-BD7D-C19A2A64351A}|ViewOnlyWebApp\\ViewOnlyWebApp.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week4\\ecommercesolution\\viewonlywebapp\\viewonlywebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D4BC4D9-E71F-47AF-BD7D-C19A2A64351A}|ViewOnlyWebApp\\ViewOnlyWebApp.csproj|solutionrelative:viewonlywebapp\\viewonlywebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4BC4D9-E71F-47AF-BD7D-C19A2A64351A}|ViewOnlyWebApp\\ViewOnlyWebApp.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week4\\ecommercesolution\\viewonlywebapp\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D4BC4D9-E71F-47AF-BD7D-C19A2A64351A}|ViewOnlyWebApp\\ViewOnlyWebApp.csproj|solutionrelative:viewonlywebapp\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4BC4D9-E71F-47AF-BD7D-C19A2A64351A}|ViewOnlyWebApp\\ViewOnlyWebApp.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week4\\ecommercesolution\\viewonlywebapp\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D4BC4D9-E71F-47AF-BD7D-C19A2A64351A}|ViewOnlyWebApp\\ViewOnlyWebApp.csproj|solutionrelative:viewonlywebapp\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4BC4D9-E71F-47AF-BD7D-C19A2A64351A}|ViewOnlyWebApp\\ViewOnlyWebApp.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week4\\ecommercesolution\\viewonlywebapp\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D4BC4D9-E71F-47AF-BD7D-C19A2A64351A}|ViewOnlyWebApp\\ViewOnlyWebApp.csproj|solutionrelative:viewonlywebapp\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4BC4D9-E71F-47AF-BD7D-C19A2A64351A}|ViewOnlyWebApp\\ViewOnlyWebApp.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week4\\ecommercesolution\\viewonlywebapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D4BC4D9-E71F-47AF-BD7D-C19A2A64351A}|ViewOnlyWebApp\\ViewOnlyWebApp.csproj|solutionrelative:viewonlywebapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EED69D-499F-426B-8DD5-71E538A88D56}|ShoppingPortal\\ShoppingPortal.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week4\\ecommercesolution\\shoppingportal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98EED69D-499F-426B-8DD5-71E538A88D56}|ShoppingPortal\\ShoppingPortal.csproj|solutionrelative:shoppingportal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4BC4D9-E71F-47AF-BD7D-C19A2A64351A}|ViewOnlyWebApp\\ViewOnlyWebApp.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week4\\ecommercesolution\\viewonlywebapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D4BC4D9-E71F-47AF-BD7D-C19A2A64351A}|ViewOnlyWebApp\\ViewOnlyWebApp.csproj|solutionrelative:viewonlywebapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EED69D-499F-426B-8DD5-71E538A88D56}|ShoppingPortal\\ShoppingPortal.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week4\\ecommercesolution\\shoppingportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EED69D-499F-426B-8DD5-71E538A88D56}|ShoppingPortal\\ShoppingPortal.csproj|solutionrelative:shoppingportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EED69D-499F-426B-8DD5-71E538A88D56}|ShoppingPortal\\ShoppingPortal.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week4\\ecommercesolution\\shoppingportal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EED69D-499F-426B-8DD5-71E538A88D56}|ShoppingPortal\\ShoppingPortal.csproj|solutionrelative:shoppingportal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,66 +87,209 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Result.cshtml",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ShoppingPortal\\Views\\Collect\\Result.cshtml",
-              "RelativeDocumentMoniker": "ShoppingPortal\\Views\\Collect\\Result.cshtml",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ShoppingPortal\\Views\\Collect\\Result.cshtml",
-              "RelativeToolTip": "ShoppingPortal\\Views\\Collect\\Result.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T15:19:47.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ShoppingPortal\\Views\\Collect\\Index.cshtml",
-              "RelativeDocumentMoniker": "ShoppingPortal\\Views\\Collect\\Index.cshtml",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ShoppingPortal\\Views\\Collect\\Index.cshtml*",
-              "RelativeToolTip": "ShoppingPortal\\Views\\Collect\\Index.cshtml*",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T15:17:14.062Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CollectController.cs",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ShoppingPortal\\Controllers\\CollectController.cs",
-              "RelativeDocumentMoniker": "ShoppingPortal\\Controllers\\CollectController.cs",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ShoppingPortal\\Controllers\\CollectController.cs",
-              "RelativeToolTip": "ShoppingPortal\\Controllers\\CollectController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB0AAAAgAAAAAAAAAA==",
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ViewOnlyWebApp\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ViewOnlyWebApp\\Services\\ProductService.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ViewOnlyWebApp\\Services\\ProductService.cs",
+              "RelativeToolTip": "ViewOnlyWebApp\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T15:15:59.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormData.cs",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ShoppingPortal\\Models\\FormData.cs",
-              "RelativeDocumentMoniker": "ShoppingPortal\\Models\\FormData.cs",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ShoppingPortal\\Models\\FormData.cs",
-              "RelativeToolTip": "ShoppingPortal\\Models\\FormData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T15:14:43.603Z",
+              "WhenOpened": "2025-04-05T07:31:27.414Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ShoppingPortal\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "ShoppingPortal\\Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ShoppingPortal\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "ShoppingPortal\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAA9wAoAAAAJAAAAAAAAAA==",
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ViewOnlyWebApp\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "ViewOnlyWebApp\\Services\\IProductService.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ViewOnlyWebApp\\Services\\IProductService.cs",
+              "RelativeToolTip": "ViewOnlyWebApp\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T15:13:07.698Z",
+              "WhenOpened": "2025-04-05T07:30:12.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ViewOnlyWebApp\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ViewOnlyWebApp\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ViewOnlyWebApp\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ViewOnlyWebApp\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T07:27:29.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ViewOnlyWebApp\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ViewOnlyWebApp\\Repositories\\IProductRepository.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ViewOnlyWebApp\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "ViewOnlyWebApp\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T07:26:48.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ViewOnlyWebApp\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ViewOnlyWebApp\\Entities\\Product.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ViewOnlyWebApp\\Entities\\Product.cs",
+              "RelativeToolTip": "ViewOnlyWebApp\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T07:26:08.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewOnlyWebApp",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ViewOnlyWebApp\\ViewOnlyWebApp.csproj",
+              "RelativeDocumentMoniker": "ViewOnlyWebApp\\ViewOnlyWebApp.csproj",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ViewOnlyWebApp\\ViewOnlyWebApp.csproj",
+              "RelativeToolTip": "ViewOnlyWebApp\\ViewOnlyWebApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-05T06:38:51.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ViewOnlyWebApp\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "ViewOnlyWebApp\\Pages\\Login.cshtml.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ViewOnlyWebApp\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "ViewOnlyWebApp\\Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T07:18:34.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ViewOnlyWebApp\\Pages\\Register.cshtml",
+              "RelativeDocumentMoniker": "ViewOnlyWebApp\\Pages\\Register.cshtml",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ViewOnlyWebApp\\Pages\\Register.cshtml",
+              "RelativeToolTip": "ViewOnlyWebApp\\Pages\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T07:02:47.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ViewOnlyWebApp\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "ViewOnlyWebApp\\Pages\\Login.cshtml",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ViewOnlyWebApp\\Pages\\Login.cshtml",
+              "RelativeToolTip": "ViewOnlyWebApp\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T07:00:15.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.cshtml.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ViewOnlyWebApp\\Pages\\List.cshtml.cs",
+              "RelativeDocumentMoniker": "ViewOnlyWebApp\\Pages\\List.cshtml.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ViewOnlyWebApp\\Pages\\List.cshtml.cs",
+              "RelativeToolTip": "ViewOnlyWebApp\\Pages\\List.cshtml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:49:39.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ViewOnlyWebApp\\Pages\\List.cshtml",
+              "RelativeDocumentMoniker": "ViewOnlyWebApp\\Pages\\List.cshtml",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ViewOnlyWebApp\\Pages\\List.cshtml*",
+              "RelativeToolTip": "ViewOnlyWebApp\\Pages\\List.cshtml*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T06:42:41.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ViewOnlyWebApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "ViewOnlyWebApp\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ViewOnlyWebApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "ViewOnlyWebApp\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T06:37:54.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ViewOnlyWebApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ViewOnlyWebApp\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ViewOnlyWebApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ViewOnlyWebApp\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T06:37:01.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ShoppingPortal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ShoppingPortal\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ShoppingPortal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ShoppingPortal\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T06:21:19.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ShoppingPortal\\Program.cs",
+              "RelativeDocumentMoniker": "ShoppingPortal\\Program.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ShoppingPortal\\Program.cs",
+              "RelativeToolTip": "ShoppingPortal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T05:36:21.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ShoppingPortal\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ShoppingPortal\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week4\\ECommerceSolution\\ShoppingPortal\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ShoppingPortal\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T04:13:43.301Z",
               "EditorCaption": ""
             }
           ]
