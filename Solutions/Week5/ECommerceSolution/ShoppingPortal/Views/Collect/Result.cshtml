@@ -1,0 +1,17 @@
+﻿@model ShoppingPortal.Models.FormData;
+
+@{
+    ViewData["Title"] = "Form Submission Result";
+}
+
+<h2>Submitted Data:</h2>
+
+<p>Selected Item: @Model.SelectedItem</p>
+<p>Selected Option: @Model.SelectedOption</p>
+<p>Selected Preferences:</p>
+<ul>
+    @foreach (var pref in Model.SelectedPreferences)
+    {
+        <li>@pref</li>
+    }
+</ul>

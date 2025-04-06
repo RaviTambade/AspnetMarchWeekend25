@@ -1,0 +1,60 @@
+﻿@model ShoppingPortal.Models.FormData;
+
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h2>Form with ListBox, RadioButton, and CheckBox</h2>
+
+<form method="post">
+    <!-- ListBox -->
+    <div>
+        <label for="listbox">Select Item:</label>
+        <select id="listbox" name="SelectedItem" size="4">
+            <option value="CSharp">CSharp</option>
+            <option value="Java">Java</option>
+            <option value="Python">Python</option>
+            <option value="Javascript">Javascript</option>
+        </select>
+    </div>
+
+    <br/>
+
+ 
+    <div>
+        <label>Choose an option:</label>
+        <div>
+            <input type="radio" id="option1" name="SelectedOption" value="Windows" />
+            <label for="option1">Windows</label>
+        </div>
+        <div>
+            <input type="radio" id="option2" name="SelectedOption" value="Web" />
+            <label for="option2">Web</label>
+        </div>
+        <div>
+            <input type="radio" id="option3" name="SelectedOption" value="Mobile" />
+            <label for="option3">Mobile</label>
+        </div>
+    </div>
+
+    <br/>
+ 
+    <div>
+        <label>Choose Preferences:</label>
+        <div>
+            <input type="checkbox" id="pref1" name="SelectedPreferences" value="Coding" />
+            <label for="pref1">Coding</label>
+        </div>
+        <div>
+            <input type="checkbox" id="pref2" name="SelectedPreferences" value="Design" />
+            <label for="pref2">Design</label>
+        </div>
+        <div>
+            <input type="checkbox" id="pref3" name="SelectedPreferences" value="Architecting" />
+            <label for="pref3">Architecting </label>
+        </div>
+    </div>
+
+    <button type="submit">Submit</button>
+</form>
