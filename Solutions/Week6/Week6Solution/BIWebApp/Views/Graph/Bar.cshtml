@@ -1,0 +1,72 @@
+﻿@{
+    ViewData["Title"] = "Sales Bar Chart";
+}
+
+
+<h2>@ViewData["Title"]</h2>
+
+
+@{
+    //.net code (IL Code)
+    //Server Side Code Exeuction
+    //razor syntax
+
+    var salesBackendData = ViewData["data"];
+}
+<!-- Chart Container -->
+<!-- GDI  Graphical Device Interface-->
+<!--- Web Page GDI  (GUI)-->
+<!-- GUI container for rendering Graphics  -->
+<!-- Geometrics shapes -->
+<canvas id="salesBarChart" width="400" height="200"></canvas>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+
+<!-- Dynamic HTML  Rendnering  at client Side-->
+<script>
+
+    //At Client Side, inside Browser
+    //There are two engines:
+    //1. HTML Rendering Engine   , 2. V8 Javascript Engine (DOM )
+
+    //code is trargeted to Javascript Engine resided inside Browswer at client machine
+
+    //JS code 
+    //Javascript Syntax
+    //Client Side Code Execution
+    // Data for the chart
+    const salesData = {
+        labels: ['Total Sales', 'Revenue', 'Cost', 'Profit', 'Units Sold', 'Returns'], // Labels for the bars
+        datasets: [{
+            label: 'Sales Data',
+            data: '@salesBackendData', // Realistic sales data
+            backgroundColor: ['rgba(75, 192, 192, 0.2)', 'rgba(153, 102, 255, 0.2)'],
+            borderColor: ['rgba(75, 192, 192, 1)', 'rgba(153, 102, 255, 1)'],
+            borderWidth: 1
+        }]
+    };
+
+    // Configuration for the chart JSON Object
+       const config = {
+           type: 'pie',
+           data: salesData,
+           options: {
+               scales: {
+                   y: {
+                       beginAtZero: true
+                   }
+               }
+           }
+       };
+
+       //DOM Programming
+       //Document Object Model
+
+       // Render the chart
+       //DOM API:
+       //Get device context
+
+       const ctx = document.getElementById('salesBarChart').getContext('2d');
+       new Chart(ctx, config);
+</script>

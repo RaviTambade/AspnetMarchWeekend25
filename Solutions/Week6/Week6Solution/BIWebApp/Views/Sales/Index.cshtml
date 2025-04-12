@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Sales Dashboard";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<div>
+    <h3>Sales Stats</h3>
+    <div id="salesStats">
+        @Html.Partial("SalesStats", new { TotalSales = 1000, Revenue = 50000 })
+    </div>
+
+    <h3>Recent Orders</h3>
+    <div id="recentOrders">
+        @Html.Partial("RecentOrders", new[] {
+        new { OrderId = 1, Product = "Phone", Price = 300 },
+        new { OrderId = 2, Product = "Laptop", Price = 800 }
+        })
+    </div>
+
+    <h3>Customer Activity</h3>
+    <div id="customerActivity">
+        @Html.Partial("CustomerActivity", new[] {
+        "User1 logged in", "User2 placed an order", "User3 left a review"
+        })
+    </div>
+</div>

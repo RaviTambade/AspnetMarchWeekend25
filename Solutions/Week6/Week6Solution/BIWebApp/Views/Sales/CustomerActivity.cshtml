@@ -1,0 +1,15 @@
+﻿@model IEnumerable<string>
+
+@if (Model != null && Model.Any())
+{
+    <ul>
+        @foreach (var activity in Model)
+        {
+            <li>@activity</li>
+        }
+    </ul>
+}
+else
+{
+    <p>No customer activity available.</p>
+}
