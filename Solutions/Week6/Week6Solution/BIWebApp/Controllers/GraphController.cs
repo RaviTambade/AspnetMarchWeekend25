@@ -11,10 +11,11 @@ namespace BIWebApp.Controllers
 
         public IActionResult Bar()
         {
-            //get data from database
-            //get from services---repository pattern---database (JSON, SQL, etc)
-            int[] data = { 1200, 75000, 50000, 25000, 300, 15 };
-            ViewData["data"] = data;
+            int[] data1 = { 407, 876, 8755, 7000, 8900, 1500 };
+            ViewData["data1"] = data1;
+
+            int[] data2 = { 407, 6000, 8755, 9000, 8900, 987 };
+            ViewData["data2"] = data2;
             return View();
         }
 
