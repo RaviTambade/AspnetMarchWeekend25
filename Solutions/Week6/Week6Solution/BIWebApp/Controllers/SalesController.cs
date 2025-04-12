@@ -8,6 +8,25 @@ namespace BIWebApp.Controllers
         {
             return View();
         }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         public IActionResult SalesStats()
         {
             var stats = new { TotalSales = 1000, Revenue = 50000 };
