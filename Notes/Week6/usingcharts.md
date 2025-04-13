@@ -161,3 +161,6 @@ public IActionResult Chart()
 | Escape Razor values properly | Avoid XSS / JS errors |
 | Use layout (`_Layout.cshtml`) for script reuse | DRY structure |
 | Keep charts in a `<script>` block, not external files if using Razor data | JS files can't access Razor directly |
+
+
+
