@@ -3,6 +3,11 @@
 }
 
 <h2>@ViewData["Title"]</h2>
+<!-- Partial Views--> 
+
+<!-- Embedding multiple child views into main View-->
+<!-- Master Detail concept to be used  while working with complex Views-->
+<!-- Server --Client --->
 
 <div>
     <h3>Sales Stats</h3>
@@ -10,6 +15,7 @@
         @Html.Partial("SalesStats", new { TotalSales = 1000, Revenue = 50000 })
     </div>
 
+    <hr/>
     <h3>Recent Orders</h3>
     <div id="recentOrders">
         @Html.Partial("RecentOrders", new[] {
@@ -17,6 +23,8 @@
         new { OrderId = 2, Product = "Laptop", Price = 800 }
         })
     </div>
+
+    <hr/>
 
     <h3>Customer Activity</h3>
     <div id="customerActivity">

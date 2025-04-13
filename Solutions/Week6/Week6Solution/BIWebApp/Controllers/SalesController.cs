@@ -6,22 +6,11 @@ namespace BIWebApp.Controllers
     {
         public IActionResult Index()
         {
+            int workerThreadID = Thread.CurrentThread.ManagedThreadId;
+            Console.WriteLine($"Thread ID: {workerThreadID}");
+
             return View();
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

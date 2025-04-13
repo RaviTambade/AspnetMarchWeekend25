@@ -6,6 +6,10 @@ namespace BIWebApp.Controllers
     {
         public IActionResult Index()
         {
+
+            int workerThreadID = Thread.CurrentThread.ManagedThreadId;
+            Console.WriteLine($"Thread ID: {workerThreadID}");
+
             return View();
         }
         public IActionResult Success()
@@ -13,6 +17,11 @@ namespace BIWebApp.Controllers
             return View();
         }
         public IActionResult Danger()
+        {
+            return View();
+        }
+
+        public IActionResult Warn()
         {
             return View();
         }

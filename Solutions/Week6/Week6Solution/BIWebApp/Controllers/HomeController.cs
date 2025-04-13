@@ -1,6 +1,7 @@
 using System.Diagnostics;
 using BIWebApp.Models;
 using Microsoft.AspNetCore.Mvc;
+using System.Threading;
 
 namespace BIWebApp.Controllers
 {
@@ -15,11 +16,15 @@ namespace BIWebApp.Controllers
 
         public IActionResult Index()
         {
+            int workerThreadID=Thread.CurrentThread.ManagedThreadId;
+            Console.WriteLine($"Thread ID: {workerThreadID}");
             return View();
         }
 
         public IActionResult Privacy()
         {
+            int workerThreadID = Thread.CurrentThread.ManagedThreadId;
+            Console.WriteLine($"Thread ID: {workerThreadID}");
             return View();
         }
 
