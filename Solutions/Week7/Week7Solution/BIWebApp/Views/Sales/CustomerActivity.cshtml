@@ -1,0 +1,18 @@
+﻿@model IEnumerable<string>
+
+
+    <hr/>
+    <h2>Top Activities of Loyal Customer</h2>
+@if (Model != null && Model.Any())
+{
+    <ul>
+        @foreach (var activity in Model)
+        {
+            <li>@activity</li>
+        }
+    </ul>
+}
+else
+{
+    <p>No customer activity available.</p>
+}
