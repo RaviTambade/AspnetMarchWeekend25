@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIWebApp", "BIWebApp\BIWebA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiTaskbasedApp", "MultiTaskbasedApp\MultiTaskbasedApp.csproj", "{FEBE16F9-6029-4BEE-B8EE-614F4441582A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncApp", "AsyncApp\AsyncApp.csproj", "{1790DFA7-E5D9-4B26-A379-B4C27BD66EBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncApp2", "AsyncApp2\AsyncApp2.csproj", "{DA953315-D064-43C8-B6F9-57ED0BE6400C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,8 +25,19 @@ Global
 		{FEBE16F9-6029-4BEE-B8EE-614F4441582A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEBE16F9-6029-4BEE-B8EE-614F4441582A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEBE16F9-6029-4BEE-B8EE-614F4441582A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1790DFA7-E5D9-4B26-A379-B4C27BD66EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1790DFA7-E5D9-4B26-A379-B4C27BD66EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1790DFA7-E5D9-4B26-A379-B4C27BD66EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1790DFA7-E5D9-4B26-A379-B4C27BD66EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA953315-D064-43C8-B6F9-57ED0BE6400C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA953315-D064-43C8-B6F9-57ED0BE6400C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA953315-D064-43C8-B6F9-57ED0BE6400C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA953315-D064-43C8-B6F9-57ED0BE6400C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AAE5B98-88FE-4A64-AD2E-5F4CD112A6A8}
 	EndGlobalSection
 EndGlobal
