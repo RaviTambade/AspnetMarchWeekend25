@@ -1,0 +1,11 @@
+﻿@model dynamic
+
+@if (Model != null)
+{
+    <p>Total Sales: @Model.TotalSales</p>
+    <p>Revenue: $@Model.Revenue</p>
+}
+else
+{
+    <p>No sales data available.</p>
+}

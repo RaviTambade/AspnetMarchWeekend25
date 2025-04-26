@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\Week5Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15C8C061-85CF-44FE-AC85-286E5E53F3E2}|BIWebApp\\BIWebApp.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\week3\\week5solution\\biwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C8C061-85CF-44FE-AC85-286E5E53F3E2}|BIWebApp\\BIWebApp.csproj|solutionrelative:biwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C8C061-85CF-44FE-AC85-286E5E53F3E2}|BIWebApp\\BIWebApp.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\week3\\week5solution\\biwebapp\\views\\graph\\bar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15C8C061-85CF-44FE-AC85-286E5E53F3E2}|BIWebApp\\BIWebApp.csproj|solutionrelative:biwebapp\\views\\graph\\bar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C8C061-85CF-44FE-AC85-286E5E53F3E2}|BIWebApp\\BIWebApp.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\week3\\week5solution\\biwebapp\\controllers\\graphcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C8C061-85CF-44FE-AC85-286E5E53F3E2}|BIWebApp\\BIWebApp.csproj|solutionrelative:biwebapp\\controllers\\graphcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C8C061-85CF-44FE-AC85-286E5E53F3E2}|BIWebApp\\BIWebApp.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\week3\\week5solution\\biwebapp\\components\\weathersummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C8C061-85CF-44FE-AC85-286E5E53F3E2}|BIWebApp\\BIWebApp.csproj|solutionrelative:biwebapp\\components\\weathersummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C8C061-85CF-44FE-AC85-286E5E53F3E2}|BIWebApp\\BIWebApp.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\week3\\week5solution\\biwebapp\\views\\graph\\comp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15C8C061-85CF-44FE-AC85-286E5E53F3E2}|BIWebApp\\BIWebApp.csproj|solutionrelative:biwebapp\\views\\graph\\comp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C8C061-85CF-44FE-AC85-286E5E53F3E2}|BIWebApp\\BIWebApp.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\week3\\week5solution\\biwebapp\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C8C061-85CF-44FE-AC85-286E5E53F3E2}|BIWebApp\\BIWebApp.csproj|solutionrelative:biwebapp\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C8C061-85CF-44FE-AC85-286E5E53F3E2}|BIWebApp\\BIWebApp.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\week3\\week5solution\\biwebapp\\views\\shared\\components\\weathersummary\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15C8C061-85CF-44FE-AC85-286E5E53F3E2}|BIWebApp\\BIWebApp.csproj|solutionrelative:biwebapp\\views\\shared\\components\\weathersummary\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C8C061-85CF-44FE-AC85-286E5E53F3E2}|BIWebApp\\BIWebApp.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\week3\\week5solution\\biwebapp\\biwebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15C8C061-85CF-44FE-AC85-286E5E53F3E2}|BIWebApp\\BIWebApp.csproj|solutionrelative:biwebapp\\biwebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C8C061-85CF-44FE-AC85-286E5E53F3E2}|BIWebApp\\BIWebApp.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\week3\\week5solution\\biwebapp\\views\\sales\\salesstats.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15C8C061-85CF-44FE-AC85-286E5E53F3E2}|BIWebApp\\BIWebApp.csproj|solutionrelative:biwebapp\\views\\sales\\salesstats.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C8C061-85CF-44FE-AC85-286E5E53F3E2}|BIWebApp\\BIWebApp.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\week3\\week5solution\\biwebapp\\views\\sales\\recentorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15C8C061-85CF-44FE-AC85-286E5E53F3E2}|BIWebApp\\BIWebApp.csproj|solutionrelative:biwebapp\\views\\sales\\recentorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C8C061-85CF-44FE-AC85-286E5E53F3E2}|BIWebApp\\BIWebApp.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\week3\\week5solution\\biwebapp\\views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15C8C061-85CF-44FE-AC85-286E5E53F3E2}|BIWebApp\\BIWebApp.csproj|solutionrelative:biwebapp\\views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C8C061-85CF-44FE-AC85-286E5E53F3E2}|BIWebApp\\BIWebApp.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\week3\\week5solution\\biwebapp\\views\\sales\\customeractivity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15C8C061-85CF-44FE-AC85-286E5E53F3E2}|BIWebApp\\BIWebApp.csproj|solutionrelative:biwebapp\\views\\sales\\customeractivity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C8C061-85CF-44FE-AC85-286E5E53F3E2}|BIWebApp\\BIWebApp.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\week3\\week5solution\\biwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15C8C061-85CF-44FE-AC85-286E5E53F3E2}|BIWebApp\\BIWebApp.csproj|solutionrelative:biwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C8C061-85CF-44FE-AC85-286E5E53F3E2}|BIWebApp\\BIWebApp.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\week3\\week5solution\\biwebapp\\views\\tag\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15C8C061-85CF-44FE-AC85-286E5E53F3E2}|BIWebApp\\BIWebApp.csproj|solutionrelative:biwebapp\\views\\tag\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C8C061-85CF-44FE-AC85-286E5E53F3E2}|BIWebApp\\BIWebApp.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\week3\\week5solution\\biwebapp\\helpers\\htmlhelperextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C8C061-85CF-44FE-AC85-286E5E53F3E2}|BIWebApp\\BIWebApp.csproj|solutionrelative:biwebapp\\helpers\\htmlhelperextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C8C061-85CF-44FE-AC85-286E5E53F3E2}|BIWebApp\\BIWebApp.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\week3\\week5solution\\biwebapp\\views\\tag\\danger.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15C8C061-85CF-44FE-AC85-286E5E53F3E2}|BIWebApp\\BIWebApp.csproj|solutionrelative:biwebapp\\views\\tag\\danger.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C8C061-85CF-44FE-AC85-286E5E53F3E2}|BIWebApp\\BIWebApp.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\week3\\week5solution\\biwebapp\\views\\tag\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15C8C061-85CF-44FE-AC85-286E5E53F3E2}|BIWebApp\\BIWebApp.csproj|solutionrelative:biwebapp\\views\\tag\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C8C061-85CF-44FE-AC85-286E5E53F3E2}|BIWebApp\\BIWebApp.csproj|d:\\tryout\\aspnetmarchweekend25\\solutions\\week3\\week5solution\\biwebapp\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C8C061-85CF-44FE-AC85-286E5E53F3E2}|BIWebApp\\BIWebApp.csproj|solutionrelative:biwebapp\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Comp.cshtml",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\Week5Solution\\BIWebApp\\Views\\Graph\\Comp.cshtml",
+              "RelativeDocumentMoniker": "BIWebApp\\Views\\Graph\\Comp.cshtml",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\Week5Solution\\BIWebApp\\Views\\Graph\\Comp.cshtml",
+              "RelativeToolTip": "BIWebApp\\Views\\Graph\\Comp.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T03:27:05.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\Week5Solution\\BIWebApp\\Views\\Shared\\Components\\WeatherSummary\\Default.cshtml",
+              "RelativeDocumentMoniker": "BIWebApp\\Views\\Shared\\Components\\WeatherSummary\\Default.cshtml",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\Week5Solution\\BIWebApp\\Views\\Shared\\Components\\WeatherSummary\\Default.cshtml",
+              "RelativeToolTip": "BIWebApp\\Views\\Shared\\Components\\WeatherSummary\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T03:25:42.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherSummary.cs",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\Week5Solution\\BIWebApp\\Components\\WeatherSummary.cs",
+              "RelativeDocumentMoniker": "BIWebApp\\Components\\WeatherSummary.cs",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\Week5Solution\\BIWebApp\\Components\\WeatherSummary.cs",
+              "RelativeToolTip": "BIWebApp\\Components\\WeatherSummary.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T03:24:32.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\Week5Solution\\BIWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BIWebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\Week5Solution\\BIWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BIWebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T03:14:55.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Danger.cshtml",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\Week5Solution\\BIWebApp\\Views\\Tag\\Danger.cshtml",
+              "RelativeDocumentMoniker": "BIWebApp\\Views\\Tag\\Danger.cshtml",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\Week5Solution\\BIWebApp\\Views\\Tag\\Danger.cshtml",
+              "RelativeToolTip": "BIWebApp\\Views\\Tag\\Danger.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T03:11:43.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\Week5Solution\\BIWebApp\\Views\\Tag\\Success.cshtml",
+              "RelativeDocumentMoniker": "BIWebApp\\Views\\Tag\\Success.cshtml",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\Week5Solution\\BIWebApp\\Views\\Tag\\Success.cshtml",
+              "RelativeToolTip": "BIWebApp\\Views\\Tag\\Success.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T03:11:00.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\Week5Solution\\BIWebApp\\Views\\Tag\\Index.cshtml",
+              "RelativeDocumentMoniker": "BIWebApp\\Views\\Tag\\Index.cshtml",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\Week5Solution\\BIWebApp\\Views\\Tag\\Index.cshtml",
+              "RelativeToolTip": "BIWebApp\\Views\\Tag\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T03:09:32.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TagController.cs",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\Week5Solution\\BIWebApp\\Controllers\\TagController.cs",
+              "RelativeDocumentMoniker": "BIWebApp\\Controllers\\TagController.cs",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\Week5Solution\\BIWebApp\\Controllers\\TagController.cs",
+              "RelativeToolTip": "BIWebApp\\Controllers\\TagController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T03:09:19.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HtmlHelperExtensions.cs",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\Week5Solution\\BIWebApp\\Helpers\\HtmlHelperExtensions.cs",
+              "RelativeDocumentMoniker": "BIWebApp\\Helpers\\HtmlHelperExtensions.cs",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\Week5Solution\\BIWebApp\\Helpers\\HtmlHelperExtensions.cs",
+              "RelativeToolTip": "BIWebApp\\Helpers\\HtmlHelperExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T03:07:59.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BIWebApp.csproj",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\Week5Solution\\BIWebApp\\BIWebApp.csproj",
+              "RelativeDocumentMoniker": "BIWebApp\\BIWebApp.csproj",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\Week5Solution\\BIWebApp\\BIWebApp.csproj",
+              "RelativeToolTip": "BIWebApp\\BIWebApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-12T03:07:30.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\Week5Solution\\BIWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BIWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\Week5Solution\\BIWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BIWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T03:06:23.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bar.cshtml",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\Week5Solution\\BIWebApp\\Views\\Graph\\Bar.cshtml",
+              "RelativeDocumentMoniker": "BIWebApp\\Views\\Graph\\Bar.cshtml",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\Week5Solution\\BIWebApp\\Views\\Graph\\Bar.cshtml",
+              "RelativeToolTip": "BIWebApp\\Views\\Graph\\Bar.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswB4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T02:56:24.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GraphController.cs",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\Week5Solution\\BIWebApp\\Controllers\\GraphController.cs",
+              "RelativeDocumentMoniker": "BIWebApp\\Controllers\\GraphController.cs",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\Week5Solution\\BIWebApp\\Controllers\\GraphController.cs",
+              "RelativeToolTip": "BIWebApp\\Controllers\\GraphController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T02:55:53.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RecentOrders.cshtml",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\Week5Solution\\BIWebApp\\Views\\Sales\\RecentOrders.cshtml",
+              "RelativeDocumentMoniker": "BIWebApp\\Views\\Sales\\RecentOrders.cshtml",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\Week5Solution\\BIWebApp\\Views\\Sales\\RecentOrders.cshtml",
+              "RelativeToolTip": "BIWebApp\\Views\\Sales\\RecentOrders.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T02:32:22.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerActivity.cshtml",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\Week5Solution\\BIWebApp\\Views\\Sales\\CustomerActivity.cshtml",
+              "RelativeDocumentMoniker": "BIWebApp\\Views\\Sales\\CustomerActivity.cshtml",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\Week5Solution\\BIWebApp\\Views\\Sales\\CustomerActivity.cshtml",
+              "RelativeToolTip": "BIWebApp\\Views\\Sales\\CustomerActivity.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T02:30:31.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SalesStats.cshtml",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\Week5Solution\\BIWebApp\\Views\\Sales\\SalesStats.cshtml",
+              "RelativeDocumentMoniker": "BIWebApp\\Views\\Sales\\SalesStats.cshtml",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\Week5Solution\\BIWebApp\\Views\\Sales\\SalesStats.cshtml",
+              "RelativeToolTip": "BIWebApp\\Views\\Sales\\SalesStats.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T02:29:54.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\Week5Solution\\BIWebApp\\Views\\Sales\\Index.cshtml",
+              "RelativeDocumentMoniker": "BIWebApp\\Views\\Sales\\Index.cshtml",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\Week5Solution\\BIWebApp\\Views\\Sales\\Index.cshtml",
+              "RelativeToolTip": "BIWebApp\\Views\\Sales\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T02:27:33.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\Week5Solution\\BIWebApp\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "BIWebApp\\Controllers\\SalesController.cs",
+              "ToolTip": "D:\\tryout\\AspnetMarchWeekend25\\Solutions\\Week3\\Week5Solution\\BIWebApp\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "BIWebApp\\Controllers\\SalesController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwBAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T02:09:42.898Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

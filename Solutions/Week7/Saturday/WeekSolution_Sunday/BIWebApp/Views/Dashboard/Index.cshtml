@@ -1,0 +1,57 @@
+﻿@{
+    ViewData["Title"] = "Live Chart Dashboard";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<canvas id="liveChart" height="100"></canvas>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<script>
+    let chart;
+
+    function createChart(labels, data) {
+        const ctx = document.getElementById('liveChart').getContext('2d');
+        chart = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: labels,
+                datasets: [{
+                    label: 'Live Data',
+                    data: data,
+                    backgroundColor: 'rgba(54, 162, 235, 0.4)',
+                    borderColor: 'rgba(54, 162, 235, 1)',
+                    borderWidth: 2,
+                    fill: true,
+                    tension: 0.4
+                }]
+            },
+            options: {
+                responsive: true,
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+    }
+
+    function updateChart() {
+        $.getJSON('/Dashboard/GetChartData', function (result) {
+            chart.data.labels = result.labels;
+            chart.data.datasets[0].data = result.values;
+            chart.update();
+        });
+    }
+
+    // Initial load
+    $.getJSON('/Dashboard/GetChartData', function (result) {
+        createChart(result.labels, result.values);
+    });
+
+    // Auto-update every 5 seconds
+    setInterval(updateChart, 5000);
+</script>
