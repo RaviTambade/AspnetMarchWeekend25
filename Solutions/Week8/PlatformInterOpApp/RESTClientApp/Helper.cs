@@ -15,7 +15,7 @@ namespace RESTClientApp
 
             HttpClient client = new HttpClient();
 
-            HttpResponseMessage response = await client.GetAsync("https://jsonplaceholder.typicode.com/posts/1");
+            HttpResponseMessage response = await client.GetAsync("http://localhost:5266/api/products/");
             if (response.IsSuccessStatusCode)
             {
                 var result = await response.Content.ReadAsStringAsync();

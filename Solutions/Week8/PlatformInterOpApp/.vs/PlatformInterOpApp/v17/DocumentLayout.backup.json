@@ -9,6 +9,38 @@
     {
       "AbsoluteMoniker": "D:0:0:{59A2C235-A94F-4A4A-8C45-00BA1778C30B}|RESTClientApp\\RESTClientApp.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week8\\platforminteropapp\\restclientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59A2C235-A94F-4A4A-8C45-00BA1778C30B}|RESTClientApp\\RESTClientApp.csproj|solutionrelative:restclientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55B557D-1E02-48F8-B464-A5D368C262E4}|ProductCatalogAPI\\ProductCatalogAPI.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week8\\platforminteropapp\\productcatalogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A55B557D-1E02-48F8-B464-A5D368C262E4}|ProductCatalogAPI\\ProductCatalogAPI.csproj|solutionrelative:productcatalogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55B557D-1E02-48F8-B464-A5D368C262E4}|ProductCatalogAPI\\ProductCatalogAPI.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week8\\platforminteropapp\\productcatalogapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A55B557D-1E02-48F8-B464-A5D368C262E4}|ProductCatalogAPI\\ProductCatalogAPI.csproj|solutionrelative:productcatalogapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55B557D-1E02-48F8-B464-A5D368C262E4}|ProductCatalogAPI\\ProductCatalogAPI.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week8\\platforminteropapp\\productcatalogapi\\productcatalogapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A55B557D-1E02-48F8-B464-A5D368C262E4}|ProductCatalogAPI\\ProductCatalogAPI.csproj|solutionrelative:productcatalogapi\\productcatalogapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2413CF93-A311-47B4-9130-9E60D7A9EFF1}|ProductCatalogWebApp\\ProductCatalogWebApp.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week8\\platforminteropapp\\productcatalogwebapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2413CF93-A311-47B4-9130-9E60D7A9EFF1}|ProductCatalogWebApp\\ProductCatalogWebApp.csproj|solutionrelative:productcatalogwebapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2413CF93-A311-47B4-9130-9E60D7A9EFF1}|ProductCatalogWebApp\\ProductCatalogWebApp.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week8\\platforminteropapp\\productcatalogwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2413CF93-A311-47B4-9130-9E60D7A9EFF1}|ProductCatalogWebApp\\ProductCatalogWebApp.csproj|solutionrelative:productcatalogwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DBA33D-5E00-4C21-8EB9-CA2442C72FB6}|UnsafePointerApp\\UnsafePointerApp.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week8\\platforminteropapp\\unsafepointerapp\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49DBA33D-5E00-4C21-8EB9-CA2442C72FB6}|UnsafePointerApp\\UnsafePointerApp.csproj|solutionrelative:unsafepointerapp\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DBA33D-5E00-4C21-8EB9-CA2442C72FB6}|UnsafePointerApp\\UnsafePointerApp.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week8\\platforminteropapp\\unsafepointerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49DBA33D-5E00-4C21-8EB9-CA2442C72FB6}|UnsafePointerApp\\UnsafePointerApp.csproj|solutionrelative:unsafepointerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DBA33D-5E00-4C21-8EB9-CA2442C72FB6}|UnsafePointerApp\\UnsafePointerApp.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week8\\platforminteropapp\\unsafepointerapp\\unsafepointerapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{49DBA33D-5E00-4C21-8EB9-CA2442C72FB6}|UnsafePointerApp\\UnsafePointerApp.csproj|solutionrelative:unsafepointerapp\\unsafepointerapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,13 +62,117 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\PlatformInterOpApp\\ProductCatalogAPI\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ProductCatalogAPI\\Entities\\Product.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\PlatformInterOpApp\\ProductCatalogAPI\\Entities\\Product.cs",
+              "RelativeToolTip": "ProductCatalogAPI\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T05:57:16.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductCatalogAPI",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\PlatformInterOpApp\\ProductCatalogAPI\\ProductCatalogAPI.csproj",
+              "RelativeDocumentMoniker": "ProductCatalogAPI\\ProductCatalogAPI.csproj",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\PlatformInterOpApp\\ProductCatalogAPI\\ProductCatalogAPI.csproj",
+              "RelativeToolTip": "ProductCatalogAPI\\ProductCatalogAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-27T05:56:56.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\PlatformInterOpApp\\ProductCatalogAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProductCatalogAPI\\Program.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\PlatformInterOpApp\\ProductCatalogAPI\\Program.cs*",
+              "RelativeToolTip": "ProductCatalogAPI\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T05:54:39.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\PlatformInterOpApp\\ProductCatalogWebApp\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductCatalogWebApp\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\PlatformInterOpApp\\ProductCatalogWebApp\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductCatalogWebApp\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T05:21:44.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\PlatformInterOpApp\\ProductCatalogWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProductCatalogWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\PlatformInterOpApp\\ProductCatalogWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProductCatalogWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T05:21:05.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\PlatformInterOpApp\\UnsafePointerApp\\Program.cs",
+              "RelativeDocumentMoniker": "UnsafePointerApp\\Program.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\PlatformInterOpApp\\UnsafePointerApp\\Program.cs",
+              "RelativeToolTip": "UnsafePointerApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T07:27:41.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\PlatformInterOpApp\\UnsafePointerApp\\Helper.cs",
+              "RelativeDocumentMoniker": "UnsafePointerApp\\Helper.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\PlatformInterOpApp\\UnsafePointerApp\\Helper.cs",
+              "RelativeToolTip": "UnsafePointerApp\\Helper.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T07:27:40.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnsafePointerApp.csproj",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\PlatformInterOpApp\\UnsafePointerApp\\UnsafePointerApp.csproj",
+              "RelativeDocumentMoniker": "UnsafePointerApp\\UnsafePointerApp.csproj",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\PlatformInterOpApp\\UnsafePointerApp\\UnsafePointerApp.csproj",
+              "RelativeToolTip": "UnsafePointerApp\\UnsafePointerApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-26T07:27:37.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Helper.cs",
               "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\PlatformInterOpApp\\RESTClientApp\\Helper.cs",
               "RelativeDocumentMoniker": "RESTClientApp\\Helper.cs",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\PlatformInterOpApp\\RESTClientApp\\Helper.cs",
-              "RelativeToolTip": "RESTClientApp\\Helper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\PlatformInterOpApp\\RESTClientApp\\Helper.cs*",
+              "RelativeToolTip": "RESTClientApp\\Helper.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T07:27:06.087Z",
               "EditorCaption": ""

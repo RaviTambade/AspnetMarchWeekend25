@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnsafePointerApp", "UnsafeP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTClientApp", "RESTClientApp\RESTClientApp.csproj", "{59A2C235-A94F-4A4A-8C45-00BA1778C30B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductCatalogWebApp", "ProductCatalogWebApp\ProductCatalogWebApp.csproj", "{2413CF93-A311-47B4-9130-9E60D7A9EFF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductCatalogAPI", "ProductCatalogAPI\ProductCatalogAPI.csproj", "{A55B557D-1E02-48F8-B464-A5D368C262E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{59A2C235-A94F-4A4A-8C45-00BA1778C30B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59A2C235-A94F-4A4A-8C45-00BA1778C30B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59A2C235-A94F-4A4A-8C45-00BA1778C30B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2413CF93-A311-47B4-9130-9E60D7A9EFF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2413CF93-A311-47B4-9130-9E60D7A9EFF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2413CF93-A311-47B4-9130-9E60D7A9EFF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2413CF93-A311-47B4-9130-9E60D7A9EFF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A55B557D-1E02-48F8-B464-A5D368C262E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A55B557D-1E02-48F8-B464-A5D368C262E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A55B557D-1E02-48F8-B464-A5D368C262E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A55B557D-1E02-48F8-B464-A5D368C262E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
