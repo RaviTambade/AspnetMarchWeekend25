@@ -110,3 +110,49 @@ using YourProjectNamespace;
 ---
 
 **Product.cs** just holds the **Product model** — it describes what fields a product has!
+
+## When to go for minimal asp.net core web api or Controller based asp.net core Web api
+
+
+| **Minimal API (Minimal code)** | **Separate Controller and Model (Traditional Web API)** |
+|:-------------------------------|:---------------------------------------------------------|
+| ✅ Very **fast** to write small APIs | ✅ **Better structure** for big/enterprise projects |
+| ✅ Perfect for **small projects, demos, internal tools** | ✅ Good for **large projects** (with many entities like Products, Orders, Customers...) |
+| ✅ Less ceremony (no Controllers, just MapGet, MapPost) | ✅ Follows **solid MVC architecture** (Model-View-Controller) |
+| ✅ Better **performance** (slightly faster startup) | ✅ Easier to **maintain, extend, and test** |
+| ❌ Becomes messy when project **grows bigger** | ❌ More boilerplate (extra code files and setup) |
+| ❌ Harder to manage **authorization, validation, business rules** cleanly | ❌ Slower to write simple APIs |
+
+---
+
+### Simple way to choose:
+
+- 🔵 **Use Minimal APIs** if:
+  - Your app is small, like a simple CRUD app, or a microservice.
+  - You want faster prototyping.
+  - You are building **internal tools**, PoC (Proof of Concept), demo apps.
+
+- 🟠 **Use Controllers** if:
+  - You are building a **real commercial app** (e-commerce, CRM, etc.).
+  - You have **complex business logic**, **many entities**, or **different API versions**.
+  - You work in a **team** (others will understand traditional structure better).
+
+---
+
+### Quick Example:
+
+| | Minimal API | Controller API |
+|:-|:-|:-|
+| File structure | Only Program.cs + Model.cs | Controllers/, Models/, maybe Services/ |
+| Complexity | Very low | Medium-High |
+| Scalability | Low for big apps | High for big apps |
+
+---
+
+### Summary:
+- **Small app?** → Minimal API  
+- **Big app (serious project)?** → Controller + Model (traditional Web API)
+
+---
+> **Pro tip**: Even big companies are starting to use Minimal APIs with a little structure (like small service classes), but for now, if you are learning or working professionally, **traditional Controllers** are a safer bet. ✅
+
