@@ -18,10 +18,11 @@ namespace PlatformInterOpApp
     public partial class Form1 : Form
     {
         //Importing the user32.dll library to use the MessageBox function
-       /* [DllImport("user32.dll", CharSet = CharSet.Ansi)]
-        public static extern int MessageBox(IntPtr hWnd, string lpText, string lpCaption, uint uType);
-       */
-
+        /* [DllImport("user32.dll", CharSet = CharSet.Ansi)]
+         public static extern int MessageBox(IntPtr hWnd, string lpText, string lpCaption, uint uType);
+        */
+        [DllImport("kernel32.dll")]
+        private static extern uint GetLastError();
 
         [DllImport("kernel32.dll", SetLastError = true, CharSet = CharSet.Auto)]
         private static extern SafeFileHandle CreateFile(
@@ -34,25 +35,62 @@ namespace PlatformInterOpApp
        IntPtr hTemplateFile);
 
 
+
+        // Define constants like in Win32
+        private const uint GENERIC_READ = 0x80000000;
+        private const uint FILE_SHARE_NONE = 0x00000000;
+        private const uint OPEN_EXISTING = 3;
+        private const uint FILE_ATTRIBUTE_NORMAL = 0x00000080;
+        private const int ERROR_SHARING_VIOLATION = 32;
+        private static readonly IntPtr INVALID_HANDLE_VALUE = new IntPtr(-1);
+
         const uint MB_OK = 0x00000000;
         const uint MB_ICONINFORMATION = 0x00000040;
 
-        // Constants for desired access
-        private const uint GENERIC_READ = 0x80000000;
+  
 
         // Share mode
         private const uint FILE_SHARE_READ = 0x00000001;
         private const uint FILE_SHARE_WRITE = 0x00000002;
 
-        // Creation disposition
-        private const uint OPEN_EXISTING = 3;
+     
 
-        // Flags and attributes
-        private const uint FILE_ATTRIBUTE_NORMAL = 0x80;
+ 
+        public unsafe bool IsFileInUse(string filePath)
+        {
+            fixed (char* pFileName = filePath)
+            {
+                SafeFileHandle handle = CreateFile(
+                    filePath,
+                    GENERIC_READ,
+                    FILE_SHARE_NONE,
+                    IntPtr.Zero,
+                    OPEN_EXISTING,
+                    FILE_ATTRIBUTE_NORMAL,
+                    IntPtr.Zero);
 
-        // Invalid handle
-        private static readonly IntPtr INVALID_HANDLE_VALUE = new IntPtr(-1);
+                using (handle) // Traditional using statement
+                {
+                    if (handle.IsInvalid)
+                    {
+                        uint error = GetLastError();
+                        if (error == ERROR_SHARING_VIOLATION)
+                        {
+                            return true; // File is in use
+                        }
+                        else
+                        {
+                            Console.WriteLine($"Failed to open file. Error: {error}");
+                            // Handle other errors if needed
+                        }
+                        return false;
+                    }
 
+                    // File opened successfully, not in use exclusively
+                    return false;
+                }
+            }
+        }
 
 
         public Form1()
@@ -117,15 +155,14 @@ namespace PlatformInterOpApp
 
                     // MessageBox(IntPtr.Zero, filePath, "Win32 MessageBox", MB_OK | MB_ICONINFORMATION);
 
-                    if (IsFileLocked(filePath))
+                    if (IsFileInUse(filePath))
                     {
-                        MessageBox.Show("File is currently in use (locked by another process).");
+                        MessageBox.Show("File is currently in use by another process.");
                     }
                     else
                     {
-                        MessageBox.Show("File is not locked. You can access it.");
+                        MessageBox.Show("File is free to use.");
                     }
-
 
 
                 }

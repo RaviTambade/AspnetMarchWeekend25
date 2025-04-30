@@ -3,10 +3,7 @@ var flowersController=require('./controllers/flowerscontroller');
 var shoppingCartController=require('./controllers/shoppingcartcontroller');
 const productsController = require('./controllers/productscontroller');
 
-
-
 module.exports=function(app){
-
    // map  product catalog handlers with  REST request types
 
    app.route('/products')

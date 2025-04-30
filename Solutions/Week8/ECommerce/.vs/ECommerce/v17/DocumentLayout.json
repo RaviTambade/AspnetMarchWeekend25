@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\ECommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF3BC04-51A9-4B80-8B6C-16856A3087EF}|CRMWebAPI\\CRMWebAPI.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week8\\ecommerce\\crmwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF3BC04-51A9-4B80-8B6C-16856A3087EF}|CRMWebAPI\\CRMWebAPI.csproj|solutionrelative:crmwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF3BC04-51A9-4B80-8B6C-16856A3087EF}|CRMWebAPI\\CRMWebAPI.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week8\\ecommerce\\crmwebapi\\crmwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1EF3BC04-51A9-4B80-8B6C-16856A3087EF}|CRMWebAPI\\CRMWebAPI.csproj|solutionrelative:crmwebapi\\crmwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F81684-EBF1-03C4-A9EF-53FAA4881463}|WebAppMVC\\WebAppMVC.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week8\\ecommerce\\webappmvc\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F81684-EBF1-03C4-A9EF-53FAA4881463}|WebAppMVC\\WebAppMVC.csproj|solutionrelative:webappmvc\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F81684-EBF1-03C4-A9EF-53FAA4881463}|WebAppMVC\\WebAppMVC.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week8\\ecommerce\\webappmvc\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F81684-EBF1-03C4-A9EF-53FAA4881463}|WebAppMVC\\WebAppMVC.csproj|solutionrelative:webappmvc\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F81684-EBF1-03C4-A9EF-53FAA4881463}|WebAppMVC\\WebAppMVC.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week8\\ecommerce\\webappmvc\\services\\customerserice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F81684-EBF1-03C4-A9EF-53FAA4881463}|WebAppMVC\\WebAppMVC.csproj|solutionrelative:webappmvc\\services\\customerserice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F81684-EBF1-03C4-A9EF-53FAA4881463}|WebAppMVC\\WebAppMVC.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week8\\ecommerce\\webappmvc\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F81684-EBF1-03C4-A9EF-53FAA4881463}|WebAppMVC\\WebAppMVC.csproj|solutionrelative:webappmvc\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F81684-EBF1-03C4-A9EF-53FAA4881463}|WebAppMVC\\WebAppMVC.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week8\\ecommerce\\webappmvc\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F81684-EBF1-03C4-A9EF-53FAA4881463}|WebAppMVC\\WebAppMVC.csproj|solutionrelative:webappmvc\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F81684-EBF1-03C4-A9EF-53FAA4881463}|WebAppMVC\\WebAppMVC.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week8\\ecommerce\\webappmvc\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F81684-EBF1-03C4-A9EF-53FAA4881463}|WebAppMVC\\WebAppMVC.csproj|solutionrelative:webappmvc\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C2D67E-EB5A-4BF9-951C-F4E0445AF4A7}|CRMLib\\CRMLib.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week8\\ecommerce\\crmlib\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C2D67E-EB5A-4BF9-951C-F4E0445AF4A7}|CRMLib\\CRMLib.csproj|solutionrelative:crmlib\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F81684-EBF1-03C4-A9EF-53FAA4881463}|WebAppMVC\\WebAppMVC.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week8\\ecommerce\\webappmvc\\webappmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E4F81684-EBF1-03C4-A9EF-53FAA4881463}|WebAppMVC\\WebAppMVC.csproj|solutionrelative:webappmvc\\webappmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C2D67E-EB5A-4BF9-951C-F4E0445AF4A7}|CRMLib\\CRMLib.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week8\\ecommerce\\crmlib\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C2D67E-EB5A-4BF9-951C-F4E0445AF4A7}|CRMLib\\CRMLib.csproj|solutionrelative:crmlib\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C2D67E-EB5A-4BF9-951C-F4E0445AF4A7}|CRMLib\\CRMLib.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week8\\ecommerce\\crmlib\\customerdbmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C2D67E-EB5A-4BF9-951C-F4E0445AF4A7}|CRMLib\\CRMLib.csproj|solutionrelative:crmlib\\customerdbmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\ECommerce\\CRMWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CRMWebAPI\\Program.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\ECommerce\\CRMWebAPI\\Program.cs",
+              "RelativeToolTip": "CRMWebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:40:50.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\ECommerce\\WebAppMVC\\Repositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "WebAppMVC\\Repositories\\ICustomerRepository.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\ECommerce\\WebAppMVC\\Repositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "WebAppMVC\\Repositories\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:14:38.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\ECommerce\\WebAppMVC\\Services\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "WebAppMVC\\Services\\ICustomerService.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\ECommerce\\WebAppMVC\\Services\\ICustomerService.cs",
+              "RelativeToolTip": "WebAppMVC\\Services\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:14:18.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerSerice.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\ECommerce\\WebAppMVC\\Services\\CustomerSerice.cs",
+              "RelativeDocumentMoniker": "WebAppMVC\\Services\\CustomerSerice.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\ECommerce\\WebAppMVC\\Services\\CustomerSerice.cs",
+              "RelativeToolTip": "WebAppMVC\\Services\\CustomerSerice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:14:05.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\ECommerce\\WebAppMVC\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "WebAppMVC\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\ECommerce\\WebAppMVC\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "WebAppMVC\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:13:42.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\ECommerce\\WebAppMVC\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "WebAppMVC\\Entities\\Customer.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\ECommerce\\WebAppMVC\\Entities\\Customer.cs",
+              "RelativeToolTip": "WebAppMVC\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:13:02.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WebAppMVC",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\ECommerce\\WebAppMVC\\WebAppMVC.csproj",
+              "RelativeDocumentMoniker": "WebAppMVC\\WebAppMVC.csproj",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\ECommerce\\WebAppMVC\\WebAppMVC.csproj",
+              "RelativeToolTip": "WebAppMVC\\WebAppMVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-30T11:11:58.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\ECommerce\\WebAppMVC\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "WebAppMVC\\Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\ECommerce\\WebAppMVC\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "WebAppMVC\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T11:11:41.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CRMWebAPI",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\ECommerce\\CRMWebAPI\\CRMWebAPI.csproj",
+              "RelativeDocumentMoniker": "CRMWebAPI\\CRMWebAPI.csproj",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\ECommerce\\CRMWebAPI\\CRMWebAPI.csproj",
+              "RelativeToolTip": "CRMWebAPI\\CRMWebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-30T10:57:39.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\ECommerce\\CRMLib\\CustomerService.cs",
+              "RelativeDocumentMoniker": "CRMLib\\CustomerService.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\ECommerce\\CRMLib\\CustomerService.cs",
+              "RelativeToolTip": "CRMLib\\CustomerService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:38:01.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerDBManger.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\ECommerce\\CRMLib\\CustomerDBManger.cs",
+              "RelativeDocumentMoniker": "CRMLib\\CustomerDBManger.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\ECommerce\\CRMLib\\CustomerDBManger.cs",
+              "RelativeToolTip": "CRMLib\\CustomerDBManger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:38:00.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\ECommerce\\CRMLib\\Customer.cs",
+              "RelativeDocumentMoniker": "CRMLib\\Customer.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week8\\ECommerce\\CRMLib\\Customer.cs",
+              "RelativeToolTip": "CRMLib\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:37:59.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
