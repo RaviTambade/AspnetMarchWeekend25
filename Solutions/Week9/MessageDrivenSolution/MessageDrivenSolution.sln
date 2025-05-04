@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicProviderConsumerApp", "BasicProviderConsumerApp\BasicProviderConsumerApp.csproj", "{59759BDB-F2D0-4179-93BE-11D544D8EA61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountLowBalanceLogging", "AccountLowBalanceLogging\AccountLowBalanceLogging.csproj", "{4732D629-F579-4B33-83C2-886EEEE85C42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59759BDB-F2D0-4179-93BE-11D544D8EA61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59759BDB-F2D0-4179-93BE-11D544D8EA61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59759BDB-F2D0-4179-93BE-11D544D8EA61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59759BDB-F2D0-4179-93BE-11D544D8EA61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4732D629-F579-4B33-83C2-886EEEE85C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4732D629-F579-4B33-83C2-886EEEE85C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4732D629-F579-4B33-83C2-886EEEE85C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4732D629-F579-4B33-83C2-886EEEE85C42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C76946A9-12DB-4B1E-88FA-27BBF776996B}
+	EndGlobalSection
+EndGlobal
