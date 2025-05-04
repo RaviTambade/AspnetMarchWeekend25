@@ -37,6 +37,8 @@ namespace AccountLowBalanceLogging.Providers
 
         protected virtual void OnLowBalance(BalanceEventArgs e)
         {
+           
+
             LowBalance?.Invoke(this, e); // Safe event call
         }
     }

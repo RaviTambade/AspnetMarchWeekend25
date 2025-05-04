@@ -30,13 +30,9 @@ namespace BasicProviderConsumerApp
                 //fire an event, trigger an event
                 //indirect call by raising an event
                 lowBalance(Balance);
-
                 //direct call 
                 /*BankEventReciver bankEventReciver = new BankEventReciver();
                 bankEventReciver.ApplyPenalty(amount);*/
-
-
-
             }
             else
             {

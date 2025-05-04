@@ -1,18 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Ravi\\TAP\\TAP\\TFLCPP\\Solutions\\CPP\\Daywisebreakup\\April\\28_4_25\\MessageDrivenSolution\\",
+  "WorkspaceRootPath": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\MessageDrivenSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59759BDB-F2D0-4179-93BE-11D544D8EA61}|BasicProviderConsumerApp\\BasicProviderConsumerApp.csproj|d:\\ravi\\tap\\tap\\tflcpp\\solutions\\cpp\\daywisebreakup\\april\\28_4_25\\messagedrivensolution\\basicproviderconsumerapp\\handlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59759BDB-F2D0-4179-93BE-11D544D8EA61}|BasicProviderConsumerApp\\BasicProviderConsumerApp.csproj|solutionrelative:basicproviderconsumerapp\\handlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4732D629-F579-4B33-83C2-886EEEE85C42}|AccountLowBalanceLogging\\AccountLowBalanceLogging.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week9\\messagedrivensolution\\accountlowbalancelogging\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4732D629-F579-4B33-83C2-886EEEE85C42}|AccountLowBalanceLogging\\AccountLowBalanceLogging.csproj|solutionrelative:accountlowbalancelogging\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59759BDB-F2D0-4179-93BE-11D544D8EA61}|BasicProviderConsumerApp\\BasicProviderConsumerApp.csproj|d:\\ravi\\tap\\tap\\tflcpp\\solutions\\cpp\\daywisebreakup\\april\\28_4_25\\messagedrivensolution\\basicproviderconsumerapp\\bankeventreciver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4732D629-F579-4B33-83C2-886EEEE85C42}|AccountLowBalanceLogging\\AccountLowBalanceLogging.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week9\\messagedrivensolution\\accountlowbalancelogging\\providers\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4732D629-F579-4B33-83C2-886EEEE85C42}|AccountLowBalanceLogging\\AccountLowBalanceLogging.csproj|solutionrelative:accountlowbalancelogging\\providers\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4732D629-F579-4B33-83C2-886EEEE85C42}|AccountLowBalanceLogging\\AccountLowBalanceLogging.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week9\\messagedrivensolution\\accountlowbalancelogging\\balanceeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4732D629-F579-4B33-83C2-886EEEE85C42}|AccountLowBalanceLogging\\AccountLowBalanceLogging.csproj|solutionrelative:accountlowbalancelogging\\balanceeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4732D629-F579-4B33-83C2-886EEEE85C42}|AccountLowBalanceLogging\\AccountLowBalanceLogging.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week9\\messagedrivensolution\\accountlowbalancelogging\\consumers\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4732D629-F579-4B33-83C2-886EEEE85C42}|AccountLowBalanceLogging\\AccountLowBalanceLogging.csproj|solutionrelative:accountlowbalancelogging\\consumers\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4732D629-F579-4B33-83C2-886EEEE85C42}|AccountLowBalanceLogging\\AccountLowBalanceLogging.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week9\\messagedrivensolution\\accountlowbalancelogging\\consumers\\emailnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4732D629-F579-4B33-83C2-886EEEE85C42}|AccountLowBalanceLogging\\AccountLowBalanceLogging.csproj|solutionrelative:accountlowbalancelogging\\consumers\\emailnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59759BDB-F2D0-4179-93BE-11D544D8EA61}|BasicProviderConsumerApp\\BasicProviderConsumerApp.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week9\\messagedrivensolution\\basicproviderconsumerapp\\bankeventreciver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59759BDB-F2D0-4179-93BE-11D544D8EA61}|BasicProviderConsumerApp\\BasicProviderConsumerApp.csproj|solutionrelative:basicproviderconsumerapp\\bankeventreciver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59759BDB-F2D0-4179-93BE-11D544D8EA61}|BasicProviderConsumerApp\\BasicProviderConsumerApp.csproj|d:\\ravi\\tap\\tap\\tflcpp\\solutions\\cpp\\daywisebreakup\\april\\28_4_25\\messagedrivensolution\\basicproviderconsumerapp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{59759BDB-F2D0-4179-93BE-11D544D8EA61}|BasicProviderConsumerApp\\BasicProviderConsumerApp.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week9\\messagedrivensolution\\basicproviderconsumerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59759BDB-F2D0-4179-93BE-11D544D8EA61}|BasicProviderConsumerApp\\BasicProviderConsumerApp.csproj|solutionrelative:basicproviderconsumerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59759BDB-F2D0-4179-93BE-11D544D8EA61}|BasicProviderConsumerApp\\BasicProviderConsumerApp.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week9\\messagedrivensolution\\basicproviderconsumerapp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59759BDB-F2D0-4179-93BE-11D544D8EA61}|BasicProviderConsumerApp\\BasicProviderConsumerApp.csproj|solutionrelative:basicproviderconsumerapp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59759BDB-F2D0-4179-93BE-11D544D8EA61}|BasicProviderConsumerApp\\BasicProviderConsumerApp.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week9\\messagedrivensolution\\basicproviderconsumerapp\\handlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59759BDB-F2D0-4179-93BE-11D544D8EA61}|BasicProviderConsumerApp\\BasicProviderConsumerApp.csproj|solutionrelative:basicproviderconsumerapp\\handlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +46,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\MessageDrivenSolution\\AccountLowBalanceLogging\\Program.cs",
+              "RelativeDocumentMoniker": "AccountLowBalanceLogging\\Program.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\MessageDrivenSolution\\AccountLowBalanceLogging\\Program.cs",
+              "RelativeToolTip": "AccountLowBalanceLogging\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:14:40.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BalanceEventArgs.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\MessageDrivenSolution\\AccountLowBalanceLogging\\BalanceEventArgs.cs",
+              "RelativeDocumentMoniker": "AccountLowBalanceLogging\\BalanceEventArgs.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\MessageDrivenSolution\\AccountLowBalanceLogging\\BalanceEventArgs.cs",
+              "RelativeToolTip": "AccountLowBalanceLogging\\BalanceEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:13:27.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\MessageDrivenSolution\\AccountLowBalanceLogging\\Providers\\Account.cs",
+              "RelativeDocumentMoniker": "AccountLowBalanceLogging\\Providers\\Account.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\MessageDrivenSolution\\AccountLowBalanceLogging\\Providers\\Account.cs",
+              "RelativeToolTip": "AccountLowBalanceLogging\\Providers\\Account.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:12:10.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogService.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\MessageDrivenSolution\\AccountLowBalanceLogging\\Consumers\\LogService.cs",
+              "RelativeDocumentMoniker": "AccountLowBalanceLogging\\Consumers\\LogService.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\MessageDrivenSolution\\AccountLowBalanceLogging\\Consumers\\LogService.cs",
+              "RelativeToolTip": "AccountLowBalanceLogging\\Consumers\\LogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:11:41.593Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -34,11 +110,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "EmailNotifier.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\MessageDrivenSolution\\AccountLowBalanceLogging\\Consumers\\EmailNotifier.cs",
+              "RelativeDocumentMoniker": "AccountLowBalanceLogging\\Consumers\\EmailNotifier.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\MessageDrivenSolution\\AccountLowBalanceLogging\\Consumers\\EmailNotifier.cs",
+              "RelativeToolTip": "AccountLowBalanceLogging\\Consumers\\EmailNotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:10:34.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\MessageDrivenSolution\\BasicProviderConsumerApp\\Program.cs",
+              "RelativeDocumentMoniker": "BasicProviderConsumerApp\\Program.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\MessageDrivenSolution\\BasicProviderConsumerApp\\Program.cs",
+              "RelativeToolTip": "BasicProviderConsumerApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:01:50.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Handlers.cs",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\TFLCPP\\Solutions\\CPP\\Daywisebreakup\\April\\28_4_25\\MessageDrivenSolution\\BasicProviderConsumerApp\\Handlers.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\MessageDrivenSolution\\BasicProviderConsumerApp\\Handlers.cs",
               "RelativeDocumentMoniker": "BasicProviderConsumerApp\\Handlers.cs",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\TFLCPP\\Solutions\\CPP\\Daywisebreakup\\April\\28_4_25\\MessageDrivenSolution\\BasicProviderConsumerApp\\Handlers.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\MessageDrivenSolution\\BasicProviderConsumerApp\\Handlers.cs",
               "RelativeToolTip": "BasicProviderConsumerApp\\Handlers.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -47,26 +149,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "BankEventReciver.cs",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\TFLCPP\\Solutions\\CPP\\Daywisebreakup\\April\\28_4_25\\MessageDrivenSolution\\BasicProviderConsumerApp\\BankEventReciver.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\MessageDrivenSolution\\BasicProviderConsumerApp\\BankEventReciver.cs",
               "RelativeDocumentMoniker": "BasicProviderConsumerApp\\BankEventReciver.cs",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\TFLCPP\\Solutions\\CPP\\Daywisebreakup\\April\\28_4_25\\MessageDrivenSolution\\BasicProviderConsumerApp\\BankEventReciver.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\MessageDrivenSolution\\BasicProviderConsumerApp\\BankEventReciver.cs",
               "RelativeToolTip": "BasicProviderConsumerApp\\BankEventReciver.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-04T04:06:25.501Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Account.cs",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\TFLCPP\\Solutions\\CPP\\Daywisebreakup\\April\\28_4_25\\MessageDrivenSolution\\BasicProviderConsumerApp\\Account.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\MessageDrivenSolution\\BasicProviderConsumerApp\\Account.cs",
               "RelativeDocumentMoniker": "BasicProviderConsumerApp\\Account.cs",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\TFLCPP\\Solutions\\CPP\\Daywisebreakup\\April\\28_4_25\\MessageDrivenSolution\\BasicProviderConsumerApp\\Account.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\MessageDrivenSolution\\BasicProviderConsumerApp\\Account.cs",
               "RelativeToolTip": "BasicProviderConsumerApp\\Account.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-04T04:06:01.804Z",
               "EditorCaption": ""

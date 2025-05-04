@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+using InventoryLib;
 
 namespace InventoryService.Controllers
 {
@@ -11,34 +11,60 @@ namespace InventoryService.Controllers
 
         // GET: api/<ProductsController>
         [HttpGet]
-        public IEnumerable<string> Get()
+        public IEnumerable<Product> Get()
         {
-            return new string[] { "value1", "value2" };
+            List<Product> products = new List<Product>();
+            products.Add(new Product { Id = 1, Name = "Rose", Description = "Wedding flower" });
+            products.Add(new Product { Id = 2, Name = "Lilly", Description = "Wedding flower" });
+            products.Add(new Product { Id = 3, Name = "Tulip", Description = "Wedding flower" });
+            products.Add(new Product { Id = 4, Name = "Daisy", Description = "Wedding flower" });
+
+            return products;
         }
 
         // GET api/<ProductsController>/5
         [HttpGet("{id}")]
-        public string Get(int id)
+        public Product Get(int id)
         {
-            return "value";
+            Product product = new Product { Id = 1, Name = "Rose", Description = "Wedding flower" };
+            return product;
         }
 
         // POST api/<ProductsController>
         [HttpPost]
-        public void Post([FromBody] string value)
+        public void Post([FromBody] Product product)
         {
+            // Add product to the database
+            // Data Access Logic Layer
+            // database connection with mysql
+            // using Dapper ORM
+            // using ADO.NET
+            // using Entity Framework Core
         }
 
         // PUT api/<ProductsController>/5
         [HttpPut("{id}")]
         public void Put(int id, [FromBody] string value)
         {
+            // Update product in the database
+            // Data Access Logic Layer
+            // database connection with mysql
+            // using Dapper ORM
+            // using ADO.NET
+            // using Entity Framework Core
         }
 
         // DELETE api/<ProductsController>/5
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
+            // Delete product from the database
+            // Data Access Logic Layer
+            // database connection with mysql
+            // using Dapper ORM
+            // using ADO.NET
+            // using Entity Framework Core
+
         }
     }
 }

@@ -1,38 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\MVC-Application\\MVC-Application\\",
+  "WorkspaceRootPath": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\WebAPP_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83C4513B-A1B0-4C6D-903E-1B5BA036E53A}|InventoryRepoLib\\InventoryRepoLib.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week9\\mvc-application\\mvc-application\\inventoryrepolib\\invnetoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83C4513B-A1B0-4C6D-903E-1B5BA036E53A}|InventoryRepoLib\\InventoryRepoLib.csproj|solutionrelative:inventoryrepolib\\invnetoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1BE7F86-00E4-4E21-935C-F09C9B345146}|ShipmentLib\\ShipmentLib.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week9\\webapp_api\\shipmentlib\\shipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1BE7F86-00E4-4E21-935C-F09C9B345146}|ShipmentLib\\ShipmentLib.csproj|solutionrelative:shipmentlib\\shipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CB518C7-A70A-445F-9D03-77BC7928201C}|InventoryLib\\InventoryLib.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week9\\mvc-application\\mvc-application\\inventorylib\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3CB518C7-A70A-445F-9D03-77BC7928201C}|InventoryLib\\InventoryLib.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week9\\webapp_api\\inventorylib\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CB518C7-A70A-445F-9D03-77BC7928201C}|InventoryLib\\InventoryLib.csproj|solutionrelative:inventorylib\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0088B1F-997D-4DD9-B268-C616BA0E5658}|InventoryService\\InventoryService.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week9\\mvc-application\\mvc-application\\inventoryservice\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0088B1F-997D-4DD9-B268-C616BA0E5658}|InventoryService\\InventoryService.csproj|solutionrelative:inventoryservice\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC9663E5-2AA1-4955-86E1-01C1A820F2A6}|AuthLib\\AuthLib.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week9\\webapp_api\\authlib\\credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9663E5-2AA1-4955-86E1-01C1A820F2A6}|AuthLib\\AuthLib.csproj|solutionrelative:authlib\\credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0088B1F-997D-4DD9-B268-C616BA0E5658}|InventoryService\\InventoryService.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week9\\mvc-application\\mvc-application\\inventoryservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0088B1F-997D-4DD9-B268-C616BA0E5658}|InventoryService\\InventoryService.csproj|solutionrelative:inventoryservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC9663E5-2AA1-4955-86E1-01C1A820F2A6}|AuthLib\\AuthLib.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week9\\webapp_api\\authlib\\authlib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC9663E5-2AA1-4955-86E1-01C1A820F2A6}|AuthLib\\AuthLib.csproj|solutionrelative:authlib\\authlib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2BDD2CE-7CC2-4953-9751-3A8C720A0D7C}|CRMWebAPI\\CRMWebAPI.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week9\\mvc-application\\mvc-application\\crmwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2BDD2CE-7CC2-4953-9751-3A8C720A0D7C}|CRMWebAPI\\CRMWebAPI.csproj|solutionrelative:crmwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02EAAF32-97DC-4A9E-AC01-8793ADA79CE2}|MembershipService\\MembershipService.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week9\\webapp_api\\membershipservice\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EAAF32-97DC-4A9E-AC01-8793ADA79CE2}|MembershipService\\MembershipService.csproj|solutionrelative:membershipservice\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE8EB488-618C-4DE9-9B0B-23B73DD33198}|ShoppingApp\\ShoppingAppMVC.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week9\\mvc-application\\mvc-application\\shoppingapp\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE8EB488-618C-4DE9-9B0B-23B73DD33198}|ShoppingApp\\ShoppingAppMVC.csproj|solutionrelative:shoppingapp\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02EAAF32-97DC-4A9E-AC01-8793ADA79CE2}|MembershipService\\MembershipService.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week9\\webapp_api\\membershipservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EAAF32-97DC-4A9E-AC01-8793ADA79CE2}|MembershipService\\MembershipService.csproj|solutionrelative:membershipservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE8EB488-618C-4DE9-9B0B-23B73DD33198}|ShoppingApp\\ShoppingAppMVC.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week9\\mvc-application\\mvc-application\\shoppingapp\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE8EB488-618C-4DE9-9B0B-23B73DD33198}|ShoppingApp\\ShoppingAppMVC.csproj|solutionrelative:shoppingapp\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5DA5F524-48A1-4E72-9A2F-1A9DAA67DEB2}|ShipmentService\\ShipmentService.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week9\\webapp_api\\shipmentservice\\shipmentservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5DA5F524-48A1-4E72-9A2F-1A9DAA67DEB2}|ShipmentService\\ShipmentService.csproj|solutionrelative:shipmentservice\\shipmentservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{963713BB-2DB4-44BE-B895-891365325971}|CRMRepository\\CRMRepository.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week9\\mvc-application\\mvc-application\\crmrepository\\customeriomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{963713BB-2DB4-44BE-B895-891365325971}|CRMRepository\\CRMRepository.csproj|solutionrelative:crmrepository\\customeriomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1BE7F86-00E4-4E21-935C-F09C9B345146}|ShipmentLib\\ShipmentLib.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week9\\webapp_api\\shipmentlib\\shipmentlib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1BE7F86-00E4-4E21-935C-F09C9B345146}|ShipmentLib\\ShipmentLib.csproj|solutionrelative:shipmentlib\\shipmentlib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,8 +42,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\WebAPP_API\\InventoryLib\\Product.cs",
+              "RelativeDocumentMoniker": "InventoryLib\\Product.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\WebAPP_API\\InventoryLib\\Product.cs",
+              "RelativeToolTip": "InventoryLib\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:03:48.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\WebAPP_API\\MembershipService\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "MembershipService\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\WebAPP_API\\MembershipService\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "MembershipService\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:55:30.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthLib",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\WebAPP_API\\AuthLib\\AuthLib.csproj",
+              "RelativeDocumentMoniker": "AuthLib\\AuthLib.csproj",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\WebAPP_API\\AuthLib\\AuthLib.csproj",
+              "RelativeToolTip": "AuthLib\\AuthLib.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T06:53:39.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Credentials.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\WebAPP_API\\AuthLib\\Credentials.cs",
+              "RelativeDocumentMoniker": "AuthLib\\Credentials.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\WebAPP_API\\AuthLib\\Credentials.cs",
+              "RelativeToolTip": "AuthLib\\Credentials.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:50:19.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\WebAPP_API\\MembershipService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MembershipService\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\WebAPP_API\\MembershipService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MembershipService\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:48:30.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShipmentService",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\WebAPP_API\\ShipmentService\\ShipmentService.csproj",
+              "RelativeDocumentMoniker": "ShipmentService\\ShipmentService.csproj",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\WebAPP_API\\ShipmentService\\ShipmentService.csproj",
+              "RelativeToolTip": "ShipmentService\\ShipmentService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T06:39:06.458Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -54,106 +132,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "InvnetoryRepository.cs",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\MVC-Application\\MVC-Application\\InventoryRepoLib\\InvnetoryRepository.cs",
-              "RelativeDocumentMoniker": "InventoryRepoLib\\InvnetoryRepository.cs",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\MVC-Application\\MVC-Application\\InventoryRepoLib\\InvnetoryRepository.cs",
-              "RelativeToolTip": "InventoryRepoLib\\InvnetoryRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T06:23:16.572Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\MVC-Application\\MVC-Application\\InventoryLib\\Product.cs",
-              "RelativeDocumentMoniker": "InventoryLib\\Product.cs",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\MVC-Application\\MVC-Application\\InventoryLib\\Product.cs",
-              "RelativeToolTip": "InventoryLib\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T06:21:44.652Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\MVC-Application\\MVC-Application\\InventoryService\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "InventoryService\\Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\MVC-Application\\MVC-Application\\InventoryService\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "InventoryService\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T06:18:36.934Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\MVC-Application\\MVC-Application\\InventoryService\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "InventoryService\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\MVC-Application\\MVC-Application\\InventoryService\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "InventoryService\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T06:17:44.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\MVC-Application\\MVC-Application\\CRMWebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "CRMWebAPI\\Program.cs",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\MVC-Application\\MVC-Application\\CRMWebAPI\\Program.cs",
-              "RelativeToolTip": "CRMWebAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T06:15:51.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CustomerRepository.cs",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\MVC-Application\\MVC-Application\\ShoppingApp\\Repositories\\CustomerRepository.cs",
-              "RelativeDocumentMoniker": "ShoppingApp\\Repositories\\CustomerRepository.cs",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\MVC-Application\\MVC-Application\\ShoppingApp\\Repositories\\CustomerRepository.cs",
-              "RelativeToolTip": "ShoppingApp\\Repositories\\CustomerRepository.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAUwFoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T08:26:56.124Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "CustomerIOManager.cs",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\MVC-Application\\MVC-Application\\CRMRepository\\CustomerIOManager.cs",
-              "RelativeDocumentMoniker": "CRMRepository\\CustomerIOManager.cs",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\MVC-Application\\MVC-Application\\CRMRepository\\CustomerIOManager.cs",
-              "RelativeToolTip": "CRMRepository\\CustomerIOManager.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwB8AAABmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T08:24:25.123Z",
+              "Title": "ShipmentLib",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\WebAPP_API\\ShipmentLib\\ShipmentLib.csproj",
+              "RelativeDocumentMoniker": "ShipmentLib\\ShipmentLib.csproj",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\WebAPP_API\\ShipmentLib\\ShipmentLib.csproj",
+              "RelativeToolTip": "ShipmentLib\\ShipmentLib.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T06:37:47.174Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\MVC-Application\\MVC-Application\\ShoppingApp\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "ShoppingApp\\Controllers\\CustomerController.cs",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\MVC-Application\\MVC-Application\\ShoppingApp\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "ShoppingApp\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAIwFkAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Shipment.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\WebAPP_API\\ShipmentLib\\Shipment.cs",
+              "RelativeDocumentMoniker": "ShipmentLib\\Shipment.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week9\\WebAPP_API\\ShipmentLib\\Shipment.cs",
+              "RelativeToolTip": "ShipmentLib\\Shipment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T07:43:49.896Z",
+              "WhenOpened": "2025-05-04T06:37:39.121Z",
               "EditorCaption": ""
             }
           ]
