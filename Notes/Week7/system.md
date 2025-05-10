@@ -1,4 +1,4 @@
-A concise overview of **System Architecture and Solution Integration** in the **Software Engineering / Enterprise IT** context:
+# System Architecture and Solution Integration** in the Software Engineering
 
 ### 🔷 **System Architecture (Enterprise IT)**
 
