@@ -35,15 +35,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RabbitMQConsumer",
+              "Title": "RabbitMQConsumer.csproj",
               "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week10\\MessageDrivenSolution\\RabbitMQConsumer\\RabbitMQConsumer.csproj",
               "RelativeDocumentMoniker": "RabbitMQConsumer\\RabbitMQConsumer.csproj",
               "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week10\\MessageDrivenSolution\\RabbitMQConsumer\\RabbitMQConsumer.csproj",
               "RelativeToolTip": "RabbitMQConsumer\\RabbitMQConsumer.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-10T07:16:03.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T07:16:03.098Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "RabbitMQConsumer\\Program.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAswBoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T07:09:20.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T07:09:20.631Z"
             },
             {
               "$type": "Document",
