@@ -1,4 +1,4 @@
-**"Automating Commerce and Trade in Enterprise Applications Using Software Pipelines"**
+#  Automating Commerce and Trade in Enterprise Applications Using Software Pipelines 
 
 ---
 
