@@ -581,6 +581,60 @@ Here’s a quick summary checklist to help reinforce the flow you're teaching:
                           autoDelete: false,
                           arguments: null);
      ```
+
+    In RabbitMQ using the .NET client library (`RabbitMQ.Client`), the `channel.QueueDeclare(...)` method is used to declare (or ensure the existence of) a queue. Here's a breakdown of the input parameters used in:
+
+```csharp
+
+channel.QueueDeclare(queue: "orderQueue", durable: false, exclusive: false, autoDelete: false, arguments: null);
+```
+
+### 🧾 Full Signature:
+
+```csharp
+QueueDeclare(string queue, bool durable, bool exclusive, bool autoDelete, IDictionary<string, object> arguments)
+```
+
+### 📌 Parameters Explained:
+
+1. **`queue: "orderQueue"`**
+
+   * The **name of the queue** you're declaring.
+   * If the queue doesn't exist, it will be created.
+   * If `""` (empty string), the broker will generate a unique queue name.
+
+2. **`durable: false`**
+
+   * If `true`, the queue **will survive a broker restart** (messages in the queue need to be persistent too).
+   * If `false`, the queue is **transient** — it will be deleted on server restart.
+
+3. **`exclusive: false`**
+
+   * If `true`, the queue is used **by only the current connection**, and **deleted when the connection closes**.
+   * Useful for temporary, private queues.
+
+4. **`autoDelete: false`**
+
+   * If `true`, the queue will be **automatically deleted when the last consumer unsubscribes**.
+   * Good for temporary queues that should disappear once no longer used.
+
+5. **`arguments: null`**
+
+   * Extra settings as key-value pairs.
+   * You can configure **TTL (time-to-live)**, **dead-lettering**, **max length**, etc.
+   * Example: `new Dictionary<string, object> { { "x-message-ttl", 60000 } }` to expire messages after 60 seconds.
+
+---
+
+### ✅ Typical Usage Example
+
+For a production queue:
+
+```csharp
+channel.QueueDeclare(queue: "orderQueue", durable: true, exclusive: false, autoDelete: false, arguments: null);
+```
+This keeps the queue available across restarts and allows multiple consumers.
+
    * Encode & Publish Message:
 
      ```csharp
