@@ -1,4 +1,4 @@
-## 🌐 Interoperability in Web Applications?
+## 🌐 Interoperability in Web Applications
 
 **Interoperability** means:
 
@@ -25,6 +25,8 @@ In modern web development, this is **critical** because your app might talk to:
 ---
 
 ## ⚙️ How Communication Technologies Enable Interoperability
+
+Communication technologies enable interoperability by allowing diverse systems, platforms, and components—often built using different languages, protocols, and architectures—to exchange data and work together seamlessly.
 
 ### 🔸 1. **REST APIs**
 
