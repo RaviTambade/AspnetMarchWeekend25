@@ -179,8 +179,6 @@ API Gateway / BFF Layer
 
 ---
 
-## ✅ Conclusion
-
 Each technology fits **different parts of the system**:
 
 * **REST/GraphQL** → For browser/public
@@ -197,11 +195,9 @@ Each technology fits **different parts of the system**:
 
  **combining  Communication Technologies Smartly** is a **key architecture skill**. The goal is to help students and teams **use the right tool for the right job**, not to replace everything with one tech.
 
-Here’s how you can teach them effectively using **layered thinking, analogies, diagrams, and real-world scenarios**.
-
 ---
 
-## ✅ 1. Start with Real-World Analogy: 📦 Online Shopping Delivery System
+## ✅ 1. 📦 Online Shopping Delivery System
 
 | Situation                     | Real-World Tool           | Software Communication     |
 | ----------------------------- | ------------------------- | -------------------------- |
@@ -232,9 +228,6 @@ Here’s how you can teach them effectively using **layered thinking, analogies,
    RabbitMQ / Kafka ↔ Notification / Shipping
 ```
 
-Use colors to **highlight where REST, gRPC, WebSocket, MQs are used**.
-
----
 
 ## ✅ 3. Teach with Practical Rules of Thumb
 
@@ -305,7 +298,7 @@ This forces **critical thinking** and helps them understand **trade-offs**.
 
 ---
 
-## ✅ Key Takeaway for Students
+## ✅ Conclusion
 
 > “Modern apps are built like teams. Not everyone speaks the same way, but they all work together. Use REST for openness, gRPC for speed, queues for patience, and sockets for excitement.”
 
