@@ -63,7 +63,6 @@ Communication technologies enable interoperability by allowing diverse systems, 
 * Use **HTTP/2 or WebSocket** for modern real-time interactions
 * Use **standard schemas** for messaging (like event contracts)
 
----
 
 ## 🧪 Real-Life eCommerce Example: With Interoperability Focus
 
@@ -99,7 +98,6 @@ Communication technologies enable interoperability by allowing diverse systems, 
 * Like a **question-and-answer** session: Client asks a question (GET `/products`) and server responds with a list.
 * Best for **simple, stateless** operations, and easily used in web browsers.
 
----
 
 ### 2. **gRPC**
 
@@ -108,7 +106,7 @@ Communication technologies enable interoperability by allowing diverse systems, 
 * Ideal for **internal microservices**, mobile apps, and real-time systems.
 * Uses **Protocol Buffers** (smaller + typed than JSON).
 
----
+
 
 ### 3. **gRPC-Web**
 
@@ -116,7 +114,7 @@ Communication technologies enable interoperability by allowing diverse systems, 
 * Browsers don’t support raw gRPC, so `grpc-web` acts like a **translator**.
 * Works well for **React/Angular** web apps talking to gRPC servers.
 
----
+
 
 ### 4. **WebSockets**
 
@@ -124,7 +122,7 @@ Communication technologies enable interoperability by allowing diverse systems, 
 * Two-way, always-on channel. Like a **walkie-talkie**.
 * Great for **chat apps, live sports scores**, or collaborative editing.
 
----
+
 
 ### 5. **Message Queues (RabbitMQ/Kafka)**
 
@@ -132,7 +130,6 @@ Communication technologies enable interoperability by allowing diverse systems, 
 * Send a message and forget. The receiver picks it up **when ready**.
 * Use for **order processing, stock updates**, or fault-tolerant communication.
 
----
 
 ### 6. **GraphQL**
 
@@ -140,15 +137,12 @@ Communication technologies enable interoperability by allowing diverse systems, 
 * Client specifies **exact data needed**, no more, no less.
 * Ideal for **dynamic UIs** like mobile apps or dashboards.
 
----
 
 ### 7. **SignalR (ASP.NET)**
 
 * 🛠️ **"WebSockets for .NET made easy"**
 * Abstraction over WebSockets with **fallbacks** (like polling).
 * Perfect for **chat apps, notifications** in ASP.NET Core projects.
-
----
 
 ## 🧠 How to Decide Which to Use?
 
@@ -161,7 +155,7 @@ Communication technologies enable interoperability by allowing diverse systems, 
 | Single endpoint with dynamic queries  | GraphQL                |
 | Frontend → gRPC backend communication | gRPC-Web               |
 
----
+
 
 ## 🗺️ Visual Map of Communications in a Modern App
 
@@ -179,8 +173,6 @@ API Gateway / BFF Layer
  Background Workers / Notifications / Billing
 ```
 
----
-
 Each technology fits **different parts of the system**:
 
 * **REST/GraphQL** → For browser/public
@@ -197,8 +189,6 @@ Each technology fits **different parts of the system**:
 
  **combining  Communication Technologies Smartly** is a **key architecture skill**. The goal is to help students and teams **use the right tool for the right job**, not to replace everything with one tech.
 
----
-
 ## ✅ 1. 📦 Online Shopping Delivery System
 
 | Situation                     | Real-World Tool           | Software Communication     |
@@ -209,8 +199,6 @@ Each technology fits **different parts of the system**:
 | You fill a feedback form      | Email                     | Async REST / gRPC          |
 | You track a parcel live       | Live tracking             | gRPC Streaming / WebSocket |
 
- 
----
 
 ## ✅ 2. Use Layered Application Diagram
 
@@ -243,7 +231,6 @@ Each technology fits **different parts of the system**:
 
 📢 **Rule**: Use **gRPC inside**, **REST/GraphQL at the edge**, **MQ for async**, and **WebSockets for real-time.**
 
----
 
 ## ✅ 4. Demo a Use Case: “Order Workflow”
 
@@ -259,8 +246,6 @@ Explain how different technologies come together:
 🚚 ShippingService processes from RabbitMQ
 ```
 
----
-
 ## ✅ 5. Visualize It as a Flow
 
 ```plaintext
@@ -272,8 +257,6 @@ Frontend → REST/gRPC-Web → API Gateway
                          ↑
        Real-time UI ← WebSocket/SignalR
 ```
-
----
 
 ## ✅ 6. Group Activity: Match the Tech
  
@@ -289,7 +272,6 @@ Frontend → REST/gRPC-Web → API Gateway
 
 This forces **critical thinking** and helps them understand **trade-offs**.
 
----
 
 ## ✅ 7. Bonus Teaching Tips
 
@@ -298,7 +280,6 @@ This forces **critical thinking** and helps them understand **trade-offs**.
 * 💬 Use live code + Postman + RabbitMQ dashboard to **show it working**.
 * 📦 Bundle this into a **mini project** where they implement all types.
 
----
 
 ## ✅ Conclusion
 
