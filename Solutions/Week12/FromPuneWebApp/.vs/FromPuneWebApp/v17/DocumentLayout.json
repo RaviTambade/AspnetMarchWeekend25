@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week12\\FromPuneWebApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E77E6D85-CBAD-428B-9C40-4DFE9F3EC1F7}|FromPuneWebApp\\FromPuneWebApp.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week12\\frompunewebapp\\frompunewebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E77E6D85-CBAD-428B-9C40-4DFE9F3EC1F7}|FromPuneWebApp\\FromPuneWebApp.csproj|solutionrelative:frompunewebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77E6D85-CBAD-428B-9C40-4DFE9F3EC1F7}|FromPuneWebApp\\FromPuneWebApp.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week12\\frompunewebapp\\frompunewebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77E6D85-CBAD-428B-9C40-4DFE9F3EC1F7}|FromPuneWebApp\\FromPuneWebApp.csproj|solutionrelative:frompunewebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77E6D85-CBAD-428B-9C40-4DFE9F3EC1F7}|FromPuneWebApp\\FromPuneWebApp.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week12\\frompunewebapp\\frompunewebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77E6D85-CBAD-428B-9C40-4DFE9F3EC1F7}|FromPuneWebApp\\FromPuneWebApp.csproj|solutionrelative:frompunewebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77E6D85-CBAD-428B-9C40-4DFE9F3EC1F7}|FromPuneWebApp\\FromPuneWebApp.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week12\\frompunewebapp\\frompunewebapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E77E6D85-CBAD-428B-9C40-4DFE9F3EC1F7}|FromPuneWebApp\\FromPuneWebApp.csproj|solutionrelative:frompunewebapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77E6D85-CBAD-428B-9C40-4DFE9F3EC1F7}|FromPuneWebApp\\FromPuneWebApp.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week12\\frompunewebapp\\frompunewebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E77E6D85-CBAD-428B-9C40-4DFE9F3EC1F7}|FromPuneWebApp\\FromPuneWebApp.csproj|solutionrelative:frompunewebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +39,71 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week12\\FromPuneWebApp\\FromPuneWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "FromPuneWebApp\\Program.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week12\\FromPuneWebApp\\FromPuneWebApp\\Program.cs",
+              "RelativeToolTip": "FromPuneWebApp\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T05:58:16.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week12\\FromPuneWebApp\\FromPuneWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "FromPuneWebApp\\appsettings.json",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week12\\FromPuneWebApp\\FromPuneWebApp\\appsettings.json",
+              "RelativeToolTip": "FromPuneWebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-25T05:58:08.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week12\\FromPuneWebApp\\FromPuneWebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "FromPuneWebApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week12\\FromPuneWebApp\\FromPuneWebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "FromPuneWebApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T05:57:34.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week12\\FromPuneWebApp\\FromPuneWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FromPuneWebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week12\\FromPuneWebApp\\FromPuneWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FromPuneWebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T05:57:32.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week12\\FromPuneWebApp\\FromPuneWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FromPuneWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week12\\FromPuneWebApp\\FromPuneWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FromPuneWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T05:57:26.647Z",
+              "EditorCaption": ""
             }
           ]
         }

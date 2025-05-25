@@ -10,11 +10,13 @@ namespace FromPuneWebApp.Controllers
 
         public HomeController(ILogger<HomeController> logger)
         {
+            Console.WriteLine("HomeController constructor called");
             _logger = logger;
         }
 
         public IActionResult Index()
         {
+            Console.WriteLine("Index action method called");
             return View();
         }
 
