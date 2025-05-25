@@ -147,9 +147,6 @@ That’s learning how to **run software like a professional**.
 >
 > That’s where your code meets the world.”
 
-  Here’s your content rewritten as a mentor explaining step by step in a **storytelling style**, combining teaching moments with practical insights and a bit of narrative flow:
-
-
 ## 👨‍🏫 **Mentor’s Story: Deploying a .NET Core App to the Cloud**
 
 > *"Let me take you through a real journey I had with my students last weekend. No fancy tools, no complex setup—just the CLI, a GitHub repo, and the AWS cloud. Let’s dive in."*
