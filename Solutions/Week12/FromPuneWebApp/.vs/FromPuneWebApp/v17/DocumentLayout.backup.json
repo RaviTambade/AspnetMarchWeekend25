@@ -50,8 +50,7 @@
               "RelativeToolTip": "FromPuneWebApp\\Program.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T05:58:16.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T05:58:16.014Z"
             },
             {
               "$type": "Document",
@@ -59,9 +58,9 @@
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week12\\FromPuneWebApp\\FromPuneWebApp\\appsettings.json",
               "RelativeDocumentMoniker": "FromPuneWebApp\\appsettings.json",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week12\\FromPuneWebApp\\FromPuneWebApp\\appsettings.json*",
-              "RelativeToolTip": "FromPuneWebApp\\appsettings.json*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week12\\FromPuneWebApp\\FromPuneWebApp\\appsettings.json",
+              "RelativeToolTip": "FromPuneWebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-05-25T05:58:08.792Z",
               "EditorCaption": ""
@@ -76,8 +75,7 @@
               "RelativeToolTip": "FromPuneWebApp\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-25T05:57:34.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T05:57:34.563Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "FromPuneWebApp\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-25T05:57:32.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T05:57:32.805Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "FromPuneWebApp\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T05:57:26.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T05:57:26.647Z"
             }
           ]
         }
