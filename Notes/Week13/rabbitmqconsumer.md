@@ -1,6 +1,3 @@
-Great idea! Let’s enhance the **RabbitMQ consumer** to simulate auto-approval or rejection of loan applications based on some simple criteria (like income and CIBIL score). Once processed, the loan application status will be saved along with the decision.
-
----
 
 ### Step-by-step approach:
 
