@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week13\\SampleContainerizedApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD23245-E182-4C50-84E8-58A85645E5C7}|SampleContainerizedApp\\SampleContainerizedApp.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week13\\samplecontainerizedapp\\samplecontainerizedapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0BD23245-E182-4C50-84E8-58A85645E5C7}|SampleContainerizedApp\\SampleContainerizedApp.csproj|solutionrelative:samplecontainerizedapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week13\\SampleContainerizedApp\\SampleContainerizedApp\\Dockerfile",
+              "RelativeDocumentMoniker": "SampleContainerizedApp\\Dockerfile",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week13\\SampleContainerizedApp\\SampleContainerizedApp\\Dockerfile",
+              "RelativeToolTip": "SampleContainerizedApp\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-07T06:50:25.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

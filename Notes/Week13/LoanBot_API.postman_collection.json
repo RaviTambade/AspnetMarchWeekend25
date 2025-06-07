@@ -1,0 +1,107 @@
+{
+  "info": {
+    "name": "LoanBot API",
+    "_postman_id": "abcd1234-loanbot-collection",
+    "description": "Test collection for LoanBot API with RabbitMQ event-based workflow",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Get All Loans",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:5000/api/loans",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "5000",
+          "path": [
+            "api",
+            "loans"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Check Eligibility",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"age\": 28,\n  \"income\": 40000,\n  \"cibilScore\": 720,\n  \"location\": \"Pune\"\n}"
+        },
+        "url": {
+          "raw": "http://localhost:5000/api/loans/eligibility/check",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "5000",
+          "path": [
+            "api",
+            "loans",
+            "eligibility",
+            "check"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Apply for Loan",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"applicant\": \"Ravi Tambade\",\n  \"loanType\": \"Home Loan\",\n  \"bank\": \"Axis Bank\",\n  \"timestamp\": \"2025-06-07T06:00:00Z\"\n}"
+        },
+        "url": {
+          "raw": "http://localhost:5000/api/loans/apply",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "5000",
+          "path": [
+            "api",
+            "loans",
+            "apply"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Get All Processed Applications",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:5000/api/LoanApplications",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "5000",
+          "path": [
+            "api",
+            "LoanApplications"
+          ]
+        }
+      }
+    }
+  ]
+}
