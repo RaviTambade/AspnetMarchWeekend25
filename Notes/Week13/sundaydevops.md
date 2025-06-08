@@ -25,9 +25,9 @@ Kajal soon learned something crucial:
 
 > Writing code is half the battle. **Launching** it reliably into the world — that’s where **real users**, **servers**, **errors**, and **uptime** live.
 
-She met **Ravi**, a Senior Deployment Engineer.
+She met **Om**, a Senior Deployment Engineer.
 
-Ravi said:
+Om said:
 
 > “Kajal, we don’t just push code. We build bridges between developers and users. We make sure your creation works in real-world conditions — on a server, on cloud, with security, backups, monitoring, and scalability.”
 
@@ -35,7 +35,7 @@ Kajal listened.
 
 ### 📦 Chapter 3: Containers, Clouds & CI/CD
 
-Under Ravi's mentorship, Kajal learned:
+Under Om's mentorship, Kajal learned:
 
 * 🌩️ **Cloud Platforms** (AWS, Azure, GCP) — Not just hosting, but *auto-scaling*, *load balancing*, and *security groups*.
 * 📦 **Docker** — “Write once, run anywhere.” Her app now ran the same on her laptop and the cloud.
@@ -52,7 +52,7 @@ She checked:
 * The **CPU spike** on Grafana.
 * The **pipeline** rollback steps.
 
-She fixed it *without waking Ravi at midnight*.
+She fixed it *without waking Om at midnight*.
 
 Her team lead smiled:
 
