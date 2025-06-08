@@ -1,9 +1,3 @@
-Certainly! Here's the same content, now rewritten in an engaging **mentor-style storytelling format**, tailored to motivate and guide your students through the **Clean Code strategy in .NET Core**:
-
----
-
-## 👨‍🏫 Mentor Storytelling Format
-
 ## ✨ Clean Code Strategy in .NET Core
 
 > *“Code is read more often than it is written. So, write it as if the next person maintaining it is a vengeful warrior who knows where you live.”*
