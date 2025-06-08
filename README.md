@@ -1,6 +1,5 @@
 
-
-# 🚀 **Transform Your Career — Are You Ready to tap Your Full Potential?**
+# 🚀 **Tap Your Full Potential?**
 
 Hey there, future tech leaders!
 
