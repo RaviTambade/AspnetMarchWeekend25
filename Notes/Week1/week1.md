@@ -2,7 +2,7 @@
 
 Let me tell you a story—not from ancient times, but from today’s buzzing tech world.
 
-Once upon a time, in a city filled with cafes, coding bootcamps, and late-night debugging sessions, lived a curious student named Aarav. He didn’t just want to *write* code, he wanted to *build* something meaningful.
+Once upon a time, in a city filled with cafes, coding bootcamps, and late-night debugging sessions, lived a curious student named Abhay. He didn’t just want to *write* code, he wanted to *build* something meaningful.
 
 But the journey wasn't just about code—it was about **becoming a FullStack Developer**—a modern-day architect of digital experiences.
 
@@ -10,11 +10,11 @@ But the journey wasn't just about code—it was about **becoming a FullStack Dev
 
 ## 🌐 Chapter 1: Understanding FullStack
 
-Aarav’s mentor once told him:
+Abhay’s mentor once told him:
 
 > “A FullStack Developer is like a chef who doesn’t just know how to cook the main dish but also knows how to bake the bread, design the menu, manage the orders, and run the kitchen.”
 
-So Aarav learned:
+So Abhay learned:
 
 * **UI Development** 🍱: Building beautiful, user-friendly interfaces.
 * **App Development** 🔧: Writing backend logic and APIs.
@@ -27,7 +27,7 @@ So Aarav learned:
 
 ## 🔄 Chapter 2: Models of Software Development
 
-At the library of Software Engineering, Aarav discovered three sacred scrolls:
+At the library of Software Engineering, Abhay discovered three sacred scrolls:
 
 1. **Waterfall Model** ⛲
 
@@ -49,7 +49,7 @@ At the library of Software Engineering, Aarav discovered three sacred scrolls:
 
 ## 💻 Chapter 3: The World of Software Products
 
-Aarav walked through different tech districts:
+Abhay walked through different tech districts:
 
 * 🪟 **Windows Apps** for internal staff.
 * 🌐 **Web Apps** for franchises and retailers.
@@ -64,7 +64,7 @@ He learned how **Security** was king here:
 
 ## 📚 Chapter 4: Ancient .NET Scrolls – The FCL
 
-Mentor introduced Aarav to the **Framework Class Library**:
+Mentor introduced Abhay to the **Framework Class Library**:
 
 * Magical artifacts like `System.dll`, `System.Web.dll` 🌟
 * These .dlls housed **classes**, **interfaces**, **delegates**, and more.
@@ -83,7 +83,7 @@ Mentor introduced Aarav to the **Framework Class Library**:
 
 ## ☁️ Chapter 6: The Rise of the Cloud Kingdom
 
-Aarav discovered that monolithic castles were hard to maintain. So, he built...
+Abhay discovered that monolithic castles were hard to maintain. So, he built...
 
 * **Microservices** 🧩: Independent services, working together.
 * **SOA** 🧱: Services like Lego blocks—modular, reusable.
@@ -91,13 +91,13 @@ Aarav discovered that monolithic castles were hard to maintain. So, he built...
 
 ---
 
-## 🛠️ Chapter 7: Aarav’s Toolbox – Project-Based Learning
+## 🛠️ Chapter 7: Abhay’s Toolbox – Project-Based Learning
 
 The mentor believed in one mantra:
 
 > **“Tell me and I forget. Show me and I remember. Involve me and I learn.”**
 
-So Aarav practiced:
+So Abhay practiced:
 
 * 80% Hands-On 🧪
 * Learned by debugging 🔍
@@ -107,7 +107,7 @@ So Aarav practiced:
 
 ## 🚧 Chapter 8: Building the FullStack Empire with .NET Core
 
-### 🔨 Skills Aarav Mastered:
+### 🔨 Skills Abhay Mastered:
 
 1. **Setting Up the Foundation**
 
@@ -163,7 +163,7 @@ So Aarav practiced:
 
 ## 🏁 Chapter 9: The Path to Deployment
 
-Aarav didn’t just code. He **launched**.
+Abhay didn’t just code. He **launched**.
 
 * Set up GitHub workflows.
 * Built pipelines.
@@ -171,9 +171,9 @@ Aarav didn’t just code. He **launched**.
 
 ---
 
-## 📌 Final Chapter: Aarav Becomes a Mentor
+## 📌 Final Chapter: Abhay Becomes a Mentor
 
-Today, Aarav is not just a developer. He's a mentor, a builder, a leader.
+Today, Abhay is not just a developer. He's a mentor, a builder, a leader.
 
 He tells his students:
 

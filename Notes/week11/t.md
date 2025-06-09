@@ -109,4 +109,3 @@ strong backend understanding really helps
 * ✅ Track job profiles during CDAC campus drive – many companies hire for testing + QA roles.
 * ✅ Stay consistent – build daily routines for learning and practice.
 
-These content I roughly drafted and formatted using  Chatgpt to put in systematic manner. I hope this would give  proper roadmap. Thank  you for asking.

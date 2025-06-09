@@ -1,3 +1,4 @@
+
 # 👨‍🏫 Understanding Cloud Infrastructure the Human Way
 
 > “Alright team… grab a cup of tea. I want you to imagine something simple.”
