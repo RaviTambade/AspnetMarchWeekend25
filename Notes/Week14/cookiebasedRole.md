@@ -14,11 +14,10 @@ But now — we’re adding **rooms with role-based entry**.
 
 Enable users to login and access only those pages for which they have the proper **role-based authorization**.
 
----
+
 
 ### 🧩 Step-by-Step Implementation: From Basic Auth to Role-Based Auth
 
----
 
 ### 🛠️ Step 1: Upgrade the Model
 
@@ -39,8 +38,6 @@ Example:
 ```csharp
 new User { Email = "ravi.tambade@transflower.in", Password = "secret", Roles = new[] { "Admin", "Architect" } }
 ```
-
----
 
 ### 🔗 Step 2: Interface-Driven Design
 
@@ -64,7 +61,6 @@ Mentor tip:
 
 > "This is **Interface Segregation** and **Loose Coupling**. If tomorrow you want to replace in-memory with DB access, you only change the implementation, not the controller logic."
 
----
 
 ### 🔑 Step 3: Claims with Roles During Login
 
@@ -89,7 +85,6 @@ await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme,
 
 🔐 This is where we grant **access permissions** via role-based claims.
 
----
 
 ### 🧭 Step 4: Protecting Pages with Role Guards
 
@@ -169,7 +164,6 @@ Try this:
 
 **It works. Role guards are in place. Security enforced.**
 
----
 
 ### 🧠 Reflect: What Did We Learn?
 
@@ -183,15 +177,12 @@ Try this:
 | `SignInAsync`                                       | Server sets the cookie in the response    |
 | `SignOutAsync`                                      | Logs out and deletes the cookie           |
 
----
 
 ### 👨‍🎓 Mentor's Final Words
 
 > “Role-based authentication is like organizing a secure event. You don’t just let people in — you verify who they are and where they are allowed to go. You don’t want a chef in the engine room or an admin in HR records.”
 
 > “Start simple, test, then layer roles. Code is the hotel, roles are the access passes, and security guards are your decorators.”
-
----
 
 ### 💼 Practice Challenge for Students
 

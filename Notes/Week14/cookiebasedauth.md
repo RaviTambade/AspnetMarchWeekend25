@@ -176,13 +176,3 @@ Build a simple ASP.NET Core MVC app with:
 * Logout Button
 * In-memory user validation
 * Claims to show user email in welcome message
-
----
-
-Would you like me to:
-
-* Generate this sample project in Visual Studio format?
-* Create slides from this story for your next class?
-* Provide a student worksheet or assignment?
-
-Let me know — I’m here to support your teaching journey!
