@@ -1,10 +1,5 @@
-Absolutely! Let's combine the walkthrough, your class recording, and add **mentor-style storytelling** to explain **Role-Based Cookie Authentication** in ASP.NET Core MVC — in a way your students will *remember, visualize, and apply*.
 
----
-
-## 👨‍🏫 Mentor Storytelling: **“The VIP Lounge – Role-Based Cookie Authentication in ASP.NET Core MVC”**
-
----
+## 👨‍🏫 **“The VIP Lounge – Role-Based Cookie Authentication in ASP.NET Core MVC”**
 
 ### 🏨 Scene: The TFL Portal Grand Hotel
 
@@ -14,7 +9,6 @@ Previously, we built a hotel with only a login reception. If you had a valid ID 
 
 But now — we’re adding **rooms with role-based entry**.
 
----
 
 ## 🎯 Objective
 

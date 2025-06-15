@@ -1,7 +1,5 @@
 ## 👨‍🏫 **"The Secret Entry – Cookie-Based Authentication in ASP.NET Core MVC"**
 
----
-
 ### 🧶 *Once upon a code...*
 
 “Imagine we are organizing a private conference inside a Five-Star Hotel. Guests can’t just walk into the VIP lounge. They need to **check-in at the reception**, show **valid ID**, and only then are they given a **badge** — that badge is like a **cookie**.”
