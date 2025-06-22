@@ -9,10 +9,10 @@ Here’s a **Mentor Storytelling Style Summary** of the session titled:
 ### 🧱 **Application Building Blocks – Step-by-Step**
 
 1. **Start with the Model (Entities)**
-   🌸 We created a `Flower` class with properties like `Id`, `Name`, `UnitPrice`, `SalePrice`, etc.
-   ✅ These properties are decorated with **attributes** like `[Display(Name = "Flower Name")]` and the class with `[Serializable]`.
-   🔍 Attributes = Metadata (Just like annotations in Java)
-   📦 Serialization helps save the object state (for sessions, files, or API transfer).
+   * 🌸 We created a `Flower` class with properties like `Id`, `Name`, `UnitPrice`, `SalePrice`, etc.
+  *  ✅ These properties are decorated with **attributes** like `[Display(Name = "Flower Name")]` and the class with `[Serializable]`.
+  * 🔍 Attributes = Metadata (Just like annotations in Java)
+  * 📦 Serialization helps save the object state (for sessions, files, or API transfer).
 
 2. **Repositories & Services**
 
