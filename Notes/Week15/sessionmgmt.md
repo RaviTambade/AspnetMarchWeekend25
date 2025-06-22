@@ -1,7 +1,6 @@
-Here’s a **Mentor Storytelling Style Summary** of the session titled:
 
 
-### 🌼 **TFL Session Story: Building a Shopping Cart using ASP.NET Core MVC + Server-Side Session Management + V-Model Testing Mindset**
+### 🌼 **TFL Session Story: Building a Shopping Cart using ASP.NET Core MVC **
 
 👨‍🏫 **Mentor's Opening**
 "Imagine you're building a small flower shop website, where users can add flowers to their cart and check out later. But how do we remember their selection when they navigate across pages? That’s where **Session Management** comes into play."
