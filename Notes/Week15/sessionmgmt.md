@@ -1,4 +1,7 @@
-# 🌼 **TFL Session Story: Building a Shopping Cart using ASP.NET Core MVC + Server-Side Session Management + V-Model Testing Mindset**
+Here’s a **Mentor Storytelling Style Summary** of the session titled:
+
+
+### 🌼 **TFL Session Story: Building a Shopping Cart using ASP.NET Core MVC + Server-Side Session Management + V-Model Testing Mindset**
 
 👨‍🏫 **Mentor's Opening**
 "Imagine you're building a small flower shop website, where users can add flowers to their cart and check out later. But how do we remember their selection when they navigate across pages? That’s where **Session Management** comes into play."
@@ -44,6 +47,7 @@
    * `SetObjectAsJson(ISession session, string key, object value)`
    * `GetObjectFromJson<T>(ISession session, string key)`
      🌟 These wrap around `session.SetString()` and `session.GetString()` with JSON serialization.
+
 
 ### 🧪 **Software Testing and the V-Model**
 
