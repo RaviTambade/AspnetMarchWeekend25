@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week16\\MyBasicWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AF25A4-BD58-4F9D-8626-4AD4A7C70599}|MyBasicWebApp\\MyBasicWebApp.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week16\\mybasicwebapp\\mybasicwebapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C4AF25A4-BD58-4F9D-8626-4AD4A7C70599}|MyBasicWebApp\\MyBasicWebApp.csproj|solutionrelative:mybasicwebapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AF25A4-BD58-4F9D-8626-4AD4A7C70599}|MyBasicWebApp\\MyBasicWebApp.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week16\\mybasicwebapp\\mybasicwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AF25A4-BD58-4F9D-8626-4AD4A7C70599}|MyBasicWebApp\\MyBasicWebApp.csproj|solutionrelative:mybasicwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AF25A4-BD58-4F9D-8626-4AD4A7C70599}|MyBasicWebApp\\MyBasicWebApp.csproj|d:\\ravi\\tap\\tap\\aspnetmarchweekend25\\solutions\\week16\\mybasicwebapp\\mybasicwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AF25A4-BD58-4F9D-8626-4AD4A7C70599}|MyBasicWebApp\\MyBasicWebApp.csproj|solutionrelative:mybasicwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week16\\MyBasicWebApp\\MyBasicWebApp\\Dockerfile",
+              "RelativeDocumentMoniker": "MyBasicWebApp\\Dockerfile",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week16\\MyBasicWebApp\\MyBasicWebApp\\Dockerfile",
+              "RelativeToolTip": "MyBasicWebApp\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-02T04:32:00.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week16\\MyBasicWebApp\\MyBasicWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyBasicWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week16\\MyBasicWebApp\\MyBasicWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyBasicWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T04:31:54.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week16\\MyBasicWebApp\\MyBasicWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyBasicWebApp\\Program.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\AspnetMarchWeekend25\\Solutions\\Week16\\MyBasicWebApp\\MyBasicWebApp\\Program.cs",
+              "RelativeToolTip": "MyBasicWebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T04:31:48.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
