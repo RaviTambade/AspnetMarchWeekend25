@@ -185,9 +185,9 @@ You have **two main options**:
 
 ### 2️⃣ Use Local ML Libraries (If you need on-premise)
 
-✅ **EmguCV (C# binding for OpenCV)**
-✅ **Dlib with .NET wrapper**
-✅ Or **ML.NET Object Detection models** (less mature for faces).
+- ✅ **EmguCV (C# binding for OpenCV)**
+- ✅ **Dlib with .NET wrapper**
+- ✅ Or **ML.NET Object Detection models** (less mature for faces).
 
 🔹 Typical local steps:
 
@@ -214,16 +214,16 @@ This way, your face authentication becomes a **custom login method**.
 ## 🗄️ Storing User Face Data
 
 You have two main approaches:
-✅ Store original face images securely in your DB or storage.
-✅ Or better: store extracted **face embeddings** (vectors) which are less privacy-intrusive but still effective for matching.
+- ✅ Store original face images securely in your DB or storage.
+- ✅ Or better: store extracted **face embeddings** (vectors) which are less privacy-intrusive but still effective for matching.
 
 
 ## 🚨 Security Notes
 
-🔒 Always protect webcam access with HTTPS.
-🔒 Encrypt stored face data / embeddings.
-🔒 Get user consent for capturing and processing biometrics.
-🔒 Comply with privacy laws (GDPR, etc.)—face data is sensitive PII.
+- 🔒 Always protect webcam access with HTTPS.
+- 🔒 Encrypt stored face data / embeddings.
+- 🔒 Get user consent for capturing and processing biometrics.
+- 🔒 Comply with privacy laws (GDPR, etc.)—face data is sensitive PII.
 
 
 
@@ -238,9 +238,9 @@ You have two main approaches:
 
 ## 🚩 IMPORTANT CONCEPTS FIRST
 
-✅ **Face detection** locates where the face is (bounding box).
-✅ **Face embedding/extraction** computes a numerical vector (e.g., 128 floats) that represents facial features.
-✅ **Face comparison** is done by calculating similarity (Euclidean or cosine distance) between two embeddings.
+- ✅ **Face detection** locates where the face is (bounding box).
+- ✅ **Face embedding/extraction** computes a numerical vector (e.g., 128 floats) that represents facial features.
+- ✅ **Face comparison** is done by calculating similarity (Euclidean or cosine distance) between two embeddings.
 
 
 ## ✅ Option 1: Using EmguCV (OpenCV for .NET)
