@@ -18,24 +18,24 @@ Your mentor leans in:
 
 A user visits your login page. Instead of typing credentials, they **look at their webcam**, click one button, and if their face matches, they’re instantly signed in. This frictionless flow:
 
-✅ Feels futuristic
-✅ Reduces login abandonment
-✅ Builds user trust ("Wow, this app knows it’s me!")
-✅ Prevents password phishing
+- ✅ Feels futuristic
+- ✅ Reduces login abandonment
+- ✅ Builds user trust ("Wow, this app knows it’s me!")
+- ✅ Prevents password phishing
 
 🛠️ **How Can You Actually Build This in ASP.NET Core MVC?**
 
 "Here’s the good part," your mentor says with a smile.
 
-1️⃣ **HTML5 + JavaScript** capture the webcam stream and send a snapshot to your server.
-2️⃣ **ASP.NET Core API endpoint** receives this image.
-3️⃣ **DlibDotNet or EmguCV** processes the image:
+- 1️⃣ **HTML5 + JavaScript** capture the webcam stream and send a snapshot to your server.
+- 2️⃣ **ASP.NET Core API endpoint** receives this image.
+- 3️⃣ **DlibDotNet or EmguCV** processes the image:
 
 * Detects the face.
 * Extracts unique face embeddings.
-  4️⃣ You **compare these embeddings** with what you stored when the user enrolled their face.
-  5️⃣ If the distance between vectors is small enough, your app *knows* it’s them.
-  6️⃣ You call ASP.NET Core Identity’s `SignInManager` to log them in without needing a password.
+  - 4️⃣ You **compare these embeddings** with what you stored when the user enrolled their face.
+  - 5️⃣ If the distance between vectors is small enough, your app *knows* it’s them.
+  - 6️⃣ You call ASP.NET Core Identity’s `SignInManager` to log them in without needing a password.
 
 🔎 **It’s Not Just Cool — It’s Practical**
 
@@ -52,10 +52,10 @@ Your mentor gives you a knowing look:
 
 By integrating face-based authentication in your ASP.NET Core MVC app:
 
-🔹 You give users a login experience as easy as a smile.
-🔹 You modernize your application instantly.
-🔹 You make it harder for attackers to compromise accounts.
-🔹 You build trust, because users see you’re serious about security.
+- 🔹 You give users a login experience as easy as a smile.
+- 🔹 You modernize your application instantly.
+- 🔹 You make it harder for attackers to compromise accounts.
+- 🔹 You build trust, because users see you’re serious about security.
 
 That’s the mentor’s perspective — not just how to do it, but *why* it matters.
 
@@ -69,12 +69,12 @@ That’s a great idea—adding face-based authentication can boost your ASP.NET 
 
 ## 🗂️ Key Steps Overview
 
-✅ **Capture image from webcam in browser** (HTML5 + JS).
-✅ **Send image to server (ASP.NET Core)** via AJAX.
-✅ **Process image on server** with a face recognition library (e.g., OpenCV via EmguCV, or ML.NET, or a cloud API like Azure Face).
-✅ **Compare captured face with stored user face data** (pre-enrolled face images or face embeddings).
-✅ **Return authentication result** (success/failure) to front-end.
-✅ **Log user in** using standard ASP.NET Identity mechanisms on success.
+- ✅ **Capture image from webcam in browser** (HTML5 + JS).
+- ✅ **Send image to server (ASP.NET Core)** via AJAX.
+- ✅ **Process image on server** with a face recognition library (e.g., OpenCV via EmguCV, or ML.NET, or a cloud API like Azure Face).
+- ✅ **Compare captured face with stored user face data** (pre-enrolled face images or face embeddings).
+- ✅ **Return authentication result** (success/failure) to front-end.
+- ✅ **Log user in** using standard ASP.NET Identity mechanisms on success.
 
 
 ## 🎥 Front-end: Capture Webcam Image
@@ -109,8 +109,8 @@ Use **HTML5 + JavaScript** (getUserMedia) to access the webcam.
 </script>
 ```
 
-✅ This shows live video from the webcam.
-✅ On button click, it takes a snapshot, converts it to base64 PNG, and sends it to your ASP.NET Core endpoint `/FaceAuth/Authenticate`.
+- ✅ This shows live video from the webcam.
+- ✅ On button click, it takes a snapshot, converts it to base64 PNG, and sends it to your ASP.NET Core endpoint `/FaceAuth/Authenticate`.
 
 
 ## 🛡️ Back-end: Handle Face Authentication
@@ -173,10 +173,10 @@ You have **two main options**:
 
 ### 1️⃣ Use Cloud Face APIs (Recommended for Simplicity)
 
-✅ **Azure Face API**, **AWS Rekognition**, or **Google Vision AI**
-✅ Upload image to their API and call a face comparison endpoint.
-✅ Benefits: No server-side ML implementation, just REST calls.
-✅ Drawback: Requires internet + potential cost.
+- ✅ **Azure Face API**, **AWS Rekognition**, or **Google Vision AI**
+- ✅ Upload image to their API and call a face comparison endpoint.
+- ✅ Benefits: No server-side ML implementation, just REST calls.
+- ✅ Drawback: Requires internet + potential cost.
 
 🔹 **Azure Example (Pseudocode)**:
 
