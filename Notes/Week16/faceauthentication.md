@@ -384,32 +384,32 @@ else
 
 ✅ **Enroll user**:
 
-* Extract embedding when user registers.
-* Store the embedding vector in your DB alongside user ID.
+- * Extract embedding when user registers.
+- * Store the embedding vector in your DB alongside user ID.
 
 ✅ **Authenticate user**:
 
-* Capture webcam image.
-* Extract embedding.
-* Compare with stored embedding → if distance below threshold → authenticate!
+- * Capture webcam image.
+- * Extract embedding.
+- * Compare with stored embedding → if distance below threshold → authenticate!
 
 
 ## 🛡️ Security and Accuracy Tips
 
-✔️ Always pre-process images to normalize brightness/contrast.
-✔️ Align face using landmarks (Dlib face chips already do this).
-✔️ Store face embeddings encrypted or hashed if possible.
-✔️ Consider multiple enrollment images per user for better robustness.
+- ✔️ Always pre-process images to normalize brightness/contrast.
+- ✔️ Align face using landmarks (Dlib face chips already do this).
+- ✔️ Store face embeddings encrypted or hashed if possible.
+- ✔️ Consider multiple enrollment images per user for better robustness.
 
 I’ll show:
 
-✅ **Project structure**
-✅ **Front-end webcam capture**
-✅ **API endpoint to receive image**
-✅ **DlibDotNet-based face processing**
-✅ **Basic user management integration**
-✅ **Where to store embeddings**
-✅ **Example flow: enroll + authenticate**
+- ✅ **Project structure**
+- ✅ **Front-end webcam capture**
+- ✅ **API endpoint to receive image**
+- ✅ **DlibDotNet-based face processing**
+- ✅ **Basic user management integration**
+- ✅ **Where to store embeddings**
+- ✅ **Example flow: enroll + authenticate**
 
 
 ## 📂 1) Project Structure
@@ -609,22 +609,22 @@ public class FaceAuthController : Controller
 
 ## 📌 Explanation
 
-✔️ **GET `/FaceAuth/`** shows the webcam page.
-✔️ **POST `/FaceAuth/Authenticate`** authenticates by comparing face embedding to enrolled users.
-✔️ **POST `/FaceAuth/Enroll/{userId}`** allows you to register a user with their face.
-✔️ `EnrolledUsers` is in-memory; you’d store embeddings in a real database.
+- ✔️ **GET `/FaceAuth/`** shows the webcam page.
+- ✔️ **POST `/FaceAuth/Authenticate`** authenticates by comparing face embedding to enrolled users.
+- ✔️ **POST `/FaceAuth/Enroll/{userId}`** allows you to register a user with their face.
+- ✔️ `EnrolledUsers` is in-memory; you’d store embeddings in a real database.
 
 
 ## 🔥 Example Enrollment Flow
 
-1️⃣ User opens a special `/FaceAuth/` page for enrollment → capture their face → call `/FaceAuth/Enroll/{userId}` with their image.
-2️⃣ Server extracts embedding and saves it with their ID.
-3️⃣ Next time, when they open the authentication page → capture face → POST to `/FaceAuth/Authenticate` → compare with stored embedding → if distance < 0.6 → authenticate successfully.
+- 1️⃣ User opens a special `/FaceAuth/` page for enrollment → capture their face → call `/FaceAuth/Enroll/{userId}` with their image.
+- 2️⃣ Server extracts embedding and saves it with their ID.
+- 3️⃣ Next time, when they open the authentication page → capture face → POST to `/FaceAuth/Authenticate` → compare with stored embedding → if distance < 0.6 → authenticate successfully.
 
 ## ✅ Notes
 
-🔹 DlibDotNet works on Windows + Linux.
-🔹 For production, encrypt face embeddings before storing them.
-🔹 In real apps, integrate with ASP.NET Core Identity and call `SignInManager` on successful authentication.
-🔹 Always get user consent before processing face data.
+- 🔹 DlibDotNet works on Windows + Linux.
+- 🔹 For production, encrypt face embeddings before storing them.
+- 🔹 In real apps, integrate with ASP.NET Core Identity and call `SignInManager` on successful authentication.
+- 🔹 Always get user consent before processing face data.
 
