@@ -1,8 +1,4 @@
-Absolutely! Here's how I would present the **"Minimal Code Strategy"** and **Minimal ASP.NET Core Web API** using a **mentor storytelling** style — as if you're guiding students through a real-world mindset shift.
-
----
-
-## 👨‍🏫 Mentor Storytelling: **“Less Code, More Power — The Minimal Code Strategy”**
+## **“Less Code, More Power — The Minimal Code Strategy”**
 
 > *“Imagine you’re building a treehouse. Would you carry 100 tools when all you need is a hammer, a few nails, and a plank? That’s exactly what Minimal Code Strategy is in software development.”*
 
