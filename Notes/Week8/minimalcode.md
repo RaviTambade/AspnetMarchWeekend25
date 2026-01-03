@@ -6,8 +6,6 @@ I looked around the classroom. "We’ve all seen it. Projects with 50 files, 20 
 
 "But what if I told you... you don’t need that jungle? You just need a **clean machete and a plan**."
 
----
-
 ### 🧠 What is **Minimal Code Strategy**?
 
 It’s about writing **just enough code** to get the job done — no more, no less.
@@ -24,8 +22,6 @@ It means:
 * No overengineering.
 * Avoiding the trap of "just because we can, we should."
 
----
-
 ### 🚀 Enter ASP.NET Core Minimal API
 
 > “.NET used to be heavy. Now it’s lean, mean, and minimal.”
@@ -35,8 +31,6 @@ Since .NET 6, Microsoft introduced **Minimal APIs** — APIs with no controllers
 > “It’s like espresso instead of cappuccino — small, sharp, gets the job done.”
 
 Let me show you what I mean.
-
----
 
 ### ✨ Here's a Minimal API in Action:
 
@@ -73,8 +67,6 @@ public class Product
 }
 ```
 
----
-
 ### 🪄 Clean. Simple. Understandable.
 
 > “You’ve just built a full-featured REST API in **less than 40 lines**.”
@@ -84,8 +76,6 @@ public class Product
 * Just map a route and return a result
 
 And best of all? You can learn the **core concepts of Web API** *without wading through a forest of boilerplate*.
-
----
 
 ## ⚔️ When to Choose What?
 
@@ -98,22 +88,17 @@ I leaned on the whiteboard and drew two boxes:
 | ✅ Less ceremony                             | ✅ Better for versioning, auth, validations |
 | ❌ Gets messy when it grows                  | ❌ Slower for small/simple apps             |
 
----
 
 ### 🧭 Mentor's Rule of Thumb
 
 > “Build like a solo hacker? Start minimal.”
 > “Build like a team architecting a city? Use controllers.”
 
----
-
 ## 🎓 Real-World Analogy
 
 I told them:
 
 > “Imagine building a personal diary app vs a full e-commerce system. For the diary, use a pocket notebook (Minimal API). For the e-commerce platform? You need a filing cabinet (Controllers, Layers, Models, Services).”
-
----
 
 ## 🧰 Organizing Minimal API (as it grows)
 
